@@ -1,0 +1,16 @@
+program LojaDasFraldas;
+
+uses
+  Vcl.Forms,
+  u_Principal in 'u_Principal.pas' {Form1},
+  u_WhatsApp in 'u_WhatsApp.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+end.

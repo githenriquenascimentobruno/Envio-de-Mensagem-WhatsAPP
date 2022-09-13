@@ -1,0 +1,798 @@
+
+
+[15/12/21 20:03:12 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":{},\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\",\"body\":\"Ta aberto\",\"type\":\"chat\",\"t\":1639609379,\"notifyName\":\"\",\"from\":\"5517999750673@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750673@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":{},\"msgs\":null},\"timestamp\":1639609379,\"content\":\"Ta aberto\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":{},\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}},{\"id\":\"false_5517999750673@c.us_F6FC029444AD62BDE785A7923FAD1FDD\",\"body\":\"Boa noite\",\"type\":\"chat\",\"t\":1639609376,\"notifyName\":\"\",\"from\":\"5517999750673@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750673@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":{},\"msgs\":null},\"timestamp\":1639609376,\"content\":\"Boa noite\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":{},\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}},{\"id\":\"false_5517999750673@c.us_B20ECBA5DF0BC98DADA0FB0E3FD15A91\",\"body\":\"Oi\",\"type\":\"chat\",\"t\":1639609373,\"notifyName\":\"\",\"from\":\"5517999750673@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750673@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":{},\"msgs\":null},\"timestamp\":1639609373,\"content\":\"Oi\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":{},\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[15/12/21 20:03:12 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999750673@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517999750673@c.us",
+                "id": "591FB8DC017DE53252C7C02452466EC1",
+                "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+            },
+            "t": 1639609379,
+            "unreadCount": 3,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99975-0673",
+            "contact": {
+                "id": "5517999750673@c.us",
+                "pushname": "Familia6????",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99975-0673",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": {
+                },
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999750673@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1",
+                    "body": "Ta aberto",
+                    "type": "chat",
+                    "t": 1639609379,
+                    "notifyName": "",
+                    "from": "5517999750673@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750673@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999750673@c.us",
+                        "pushname": "Familia6????",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99975-0673",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": {
+                        },
+                        "msgs": null
+                    },
+                    "timestamp": 1639609379,
+                    "content": "Ta aberto",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750673@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517999750673@c.us",
+                            "id": "591FB8DC017DE53252C7C02452466EC1",
+                            "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+                        },
+                        "t": 1639609379,
+                        "unreadCount": 3,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0673",
+                        "contact": {
+                            "id": "5517999750673@c.us",
+                            "pushname": "Familia6????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0673",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": {
+                            },
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750673@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                },
+                {
+                    "id": "false_5517999750673@c.us_F6FC029444AD62BDE785A7923FAD1FDD",
+                    "body": "Boa noite",
+                    "type": "chat",
+                    "t": 1639609376,
+                    "notifyName": "",
+                    "from": "5517999750673@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750673@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999750673@c.us",
+                        "pushname": "Familia6????",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99975-0673",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": {
+                        },
+                        "msgs": null
+                    },
+                    "timestamp": 1639609376,
+                    "content": "Boa noite",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750673@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517999750673@c.us",
+                            "id": "591FB8DC017DE53252C7C02452466EC1",
+                            "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+                        },
+                        "t": 1639609379,
+                        "unreadCount": 3,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0673",
+                        "contact": {
+                            "id": "5517999750673@c.us",
+                            "pushname": "Familia6????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0673",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": {
+                            },
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750673@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                },
+                {
+                    "id": "false_5517999750673@c.us_B20ECBA5DF0BC98DADA0FB0E3FD15A91",
+                    "body": "Oi",
+                    "type": "chat",
+                    "t": 1639609373,
+                    "notifyName": "",
+                    "from": "5517999750673@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750673@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999750673@c.us",
+                        "pushname": "Familia6????",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99975-0673",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": {
+                        },
+                        "msgs": null
+                    },
+                    "timestamp": 1639609373,
+                    "content": "Oi",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750673@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517999750673@c.us",
+                            "id": "591FB8DC017DE53252C7C02452466EC1",
+                            "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+                        },
+                        "t": 1639609379,
+                        "unreadCount": 3,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0673",
+                        "contact": {
+                            "id": "5517999750673@c.us",
+                            "pushname": "Familia6????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0673",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": {
+                            },
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750673@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[15/12/21 20:03:15 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":null,\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517999750673@c.us_B20ECBA5DF0BC98DADA0FB0E3FD15A91\",\"body\":\"Oi\",\"type\":\"chat\",\"t\":1639609373,\"notifyName\":\"\",\"from\":\"5517999750673@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750673@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":null,\"msgs\":null},\"timestamp\":1639609373,\"content\":\"Oi\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":null,\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}},{\"id\":\"false_5517999750673@c.us_F6FC029444AD62BDE785A7923FAD1FDD\",\"body\":\"Boa noite\",\"type\":\"chat\",\"t\":1639609376,\"notifyName\":\"\",\"from\":\"5517999750673@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750673@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":null,\"msgs\":null},\"timestamp\":1639609376,\"content\":\"Boa noite\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":null,\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}},{\"id\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\",\"body\":\"Ta aberto\",\"type\":\"chat\",\"t\":1639609379,\"notifyName\":\"\",\"from\":\"5517999750673@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750673@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":null,\"msgs\":null},\"timestamp\":1639609379,\"content\":\"Ta aberto\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750673@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999750673@c.us\",\"id\":\"591FB8DC017DE53252C7C02452466EC1\",\"_serialized\":\"false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1\"},\"t\":1639609379,\"unreadCount\":3,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0673\",\"contact\":{\"id\":\"5517999750673@c.us\",\"pushname\":\"Familia6????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0673\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":null,\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750673@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[15/12/21 20:03:15 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999750673@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517999750673@c.us",
+                "id": "591FB8DC017DE53252C7C02452466EC1",
+                "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+            },
+            "t": 1639609379,
+            "unreadCount": 3,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99975-0673",
+            "contact": {
+                "id": "5517999750673@c.us",
+                "pushname": "Familia6????",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99975-0673",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": null,
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999750673@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517999750673@c.us_B20ECBA5DF0BC98DADA0FB0E3FD15A91",
+                    "body": "Oi",
+                    "type": "chat",
+                    "t": 1639609373,
+                    "notifyName": "",
+                    "from": "5517999750673@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750673@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999750673@c.us",
+                        "pushname": "Familia6????",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99975-0673",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": null,
+                        "msgs": null
+                    },
+                    "timestamp": 1639609373,
+                    "content": "Oi",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750673@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517999750673@c.us",
+                            "id": "591FB8DC017DE53252C7C02452466EC1",
+                            "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+                        },
+                        "t": 1639609379,
+                        "unreadCount": 3,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0673",
+                        "contact": {
+                            "id": "5517999750673@c.us",
+                            "pushname": "Familia6????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0673",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": null,
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750673@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                },
+                {
+                    "id": "false_5517999750673@c.us_F6FC029444AD62BDE785A7923FAD1FDD",
+                    "body": "Boa noite",
+                    "type": "chat",
+                    "t": 1639609376,
+                    "notifyName": "",
+                    "from": "5517999750673@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750673@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999750673@c.us",
+                        "pushname": "Familia6????",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99975-0673",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": null,
+                        "msgs": null
+                    },
+                    "timestamp": 1639609376,
+                    "content": "Boa noite",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750673@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517999750673@c.us",
+                            "id": "591FB8DC017DE53252C7C02452466EC1",
+                            "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+                        },
+                        "t": 1639609379,
+                        "unreadCount": 3,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0673",
+                        "contact": {
+                            "id": "5517999750673@c.us",
+                            "pushname": "Familia6????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0673",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": null,
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750673@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                },
+                {
+                    "id": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1",
+                    "body": "Ta aberto",
+                    "type": "chat",
+                    "t": 1639609379,
+                    "notifyName": "",
+                    "from": "5517999750673@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750673@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999750673@c.us",
+                        "pushname": "Familia6????",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99975-0673",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": null,
+                        "msgs": null
+                    },
+                    "timestamp": 1639609379,
+                    "content": "Ta aberto",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750673@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517999750673@c.us",
+                            "id": "591FB8DC017DE53252C7C02452466EC1",
+                            "_serialized": "false_5517999750673@c.us_591FB8DC017DE53252C7C02452466EC1"
+                        },
+                        "t": 1639609379,
+                        "unreadCount": 3,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0673",
+                        "contact": {
+                            "id": "5517999750673@c.us",
+                            "pushname": "Familia6????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0673",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": null,
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750673@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}

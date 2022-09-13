@@ -1,0 +1,413 @@
+object frmEnviaWhats: TfrmEnviaWhats
+  Left = 0
+  Top = 0
+  Caption = 'Enviar Mensagens WhatsApp'
+  ClientHeight = 635
+  ClientWidth = 918
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 918
+    Height = 257
+    Align = alTop
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 32
+      Top = 127
+      Width = 101
+      Height = 13
+      Caption = 'Caminho da Imagem:'
+    end
+    object Label2: TLabel
+      Left = 24
+      Top = 193
+      Width = 109
+      Height = 13
+      Caption = 'N'#250'mero do WhatsApp:'
+    end
+    object Label3: TLabel
+      Left = 324
+      Top = 193
+      Width = 90
+      Height = 13
+      Caption = 'Pesquisar N'#250'mero:'
+    end
+    object Label4: TLabel
+      Left = 23
+      Top = 152
+      Width = 110
+      Height = 13
+      Caption = 'Caminho da Imagem 2:'
+    end
+    object Rdb_FormaConexao: TRadioGroup
+      Left = 24
+      Top = 16
+      Width = 314
+      Height = 105
+      Caption = 'FormQrCodeType: '
+      ItemIndex = 1
+      Items.Strings = (
+        'Ft_Desktop = Formul'#225'rio Tinject'
+        'Ft_Http       = Formul'#225'rio Servidor'
+        'Ft_None      = Destino MANUAL')
+      TabOrder = 0
+    end
+    object RadioGroup2: TRadioGroup
+      Left = 344
+      Top = 16
+      Width = 297
+      Height = 105
+      Caption = 'Abrir / Fechar WhatsApp'
+      TabOrder = 1
+    end
+    object btnAbrirWhats: TBitBtn
+      Left = 440
+      Top = 40
+      Width = 121
+      Height = 25
+      Caption = 'Abrir WhatsApp'
+      TabOrder = 2
+      OnClick = btnAbrirWhatsClick
+    end
+    object btnFecharWhats: TBitBtn
+      Left = 440
+      Top = 71
+      Width = 121
+      Height = 25
+      Caption = 'Fechar WhatApp'
+      TabOrder = 3
+    end
+    object edtCaminhoImagem: TEdit
+      Left = 135
+      Top = 124
+      Width = 402
+      Height = 21
+      TabOrder = 4
+    end
+    object edtNumeroWhats: TEdit
+      Left = 135
+      Top = 190
+      Width = 170
+      Height = 21
+      TabOrder = 5
+    end
+    object btnInserirImagens: TBitBtn
+      Left = 538
+      Top = 122
+      Width = 103
+      Height = 25
+      Caption = 'Inserir Imagens'
+      TabOrder = 6
+      OnClick = btnInserirImagensClick
+    end
+    object btnEnviarMensagens: TBitBtn
+      Left = 538
+      Top = 188
+      Width = 103
+      Height = 25
+      Caption = 'Enviar Mensagens'
+      TabOrder = 7
+      OnClick = btnEnviarMensagensClick
+    end
+    object DBNavigator1: TDBNavigator
+      Left = 24
+      Top = 217
+      Width = 240
+      Height = 25
+      DataSource = dsEnviaWhats
+      TabOrder = 8
+    end
+    object edtPesquisarWhats: TEdit
+      Left = 416
+      Top = 190
+      Width = 121
+      Height = 21
+      TabOrder = 9
+      OnChange = edtPesquisarWhatsChange
+    end
+    object Edit1: TEdit
+      Left = 672
+      Top = 160
+      Width = 121
+      Height = 21
+      TabOrder = 10
+      Text = 'Edit1'
+    end
+    object btnTesteEnvioMemo1: TButton
+      Left = 647
+      Top = 82
+      Width = 121
+      Height = 25
+      Caption = 'Teste de Envio Memo 1'
+      TabOrder = 11
+      OnClick = btnTesteEnvioMemo1Click
+    end
+    object edtSleepRandom: TEdit
+      Left = 647
+      Top = 24
+      Width = 121
+      Height = 21
+      TabOrder = 12
+    end
+    object btnSleepRandom: TButton
+      Left = 656
+      Top = 51
+      Width = 89
+      Height = 25
+      Caption = 'Sleep Random'
+      TabOrder = 13
+      OnClick = btnSleepRandomClick
+    end
+    object btnTesteEnvioMemo2: TButton
+      Left = 647
+      Top = 113
+      Width = 121
+      Height = 25
+      Caption = 'Teste de Envio Memo 2'
+      TabOrder = 14
+      OnClick = btnTesteEnvioMemo2Click
+    end
+    object Button1: TButton
+      Left = 816
+      Top = 104
+      Width = 75
+      Height = 25
+      Caption = 'Button1'
+      TabOrder = 15
+      OnClick = Button1Click
+    end
+    object edtCaminhoImagem2: TEdit
+      Left = 135
+      Top = 149
+      Width = 402
+      Height = 21
+      TabOrder = 16
+    end
+    object btnInserirImagens2: TBitBtn
+      Left = 538
+      Top = 147
+      Width = 103
+      Height = 25
+      Caption = 'Inserir Imagens 2'
+      TabOrder = 17
+      OnClick = btnInserirImagens2Click
+    end
+    object btnEnviarSomenteMensagens: TBitBtn
+      Left = 538
+      Top = 217
+      Width = 143
+      Height = 25
+      Caption = 'Enviar Somente Mensagens'
+      TabOrder = 18
+      OnClick = btnEnviarSomenteMensagensClick
+    end
+    object btnTesteMensagemMemo1: TBitBtn
+      Left = 687
+      Top = 186
+      Width = 218
+      Height = 25
+      Caption = 'Teste Envio Somente Mensagens Memo 1'
+      TabOrder = 19
+    end
+    object btnTesteMensagemMemo2: TBitBtn
+      Left = 687
+      Top = 217
+      Width = 218
+      Height = 25
+      Caption = 'Teste Envio Somente Mensagens Memo 2'
+      TabOrder = 20
+    end
+  end
+  object Panel2: TPanel
+    Left = 0
+    Top = 257
+    Width = 918
+    Height = 159
+    Align = alClient
+    TabOrder = 1
+    object DBGrid1: TDBGrid
+      Left = 1
+      Top = 1
+      Width = 916
+      Height = 157
+      Align = alClient
+      DataSource = dsEnviaWhats
+      TabOrder = 0
+      TitleFont.Charset = DEFAULT_CHARSET
+      TitleFont.Color = clWindowText
+      TitleFont.Height = -11
+      TitleFont.Name = 'Tahoma'
+      TitleFont.Style = []
+      Columns = <
+        item
+          Expanded = False
+          FieldName = 'VF_ID'
+          Visible = True
+        end
+        item
+          Expanded = False
+          FieldName = 'VF_NOME'
+          Visible = True
+        end
+        item
+          Expanded = False
+          FieldName = 'VF_WHATS'
+          Visible = True
+        end
+        item
+          Expanded = False
+          FieldName = 'VF_CELULAR1'
+          Visible = True
+        end
+        item
+          Expanded = False
+          FieldName = 'VF_CELULAR2'
+          Visible = True
+        end
+        item
+          Expanded = False
+          FieldName = 'VF_OBSERVACAO'
+          Visible = False
+        end
+        item
+          Expanded = False
+          FieldName = 'VF_RECPUBLICIDADE'
+          Visible = True
+        end>
+    end
+  end
+  object Panel3: TPanel
+    Left = 0
+    Top = 416
+    Width = 918
+    Height = 219
+    Align = alBottom
+    TabOrder = 2
+    object Memo1: TMemo
+      Left = 1
+      Top = 1
+      Width = 448
+      Height = 217
+      Align = alLeft
+      Lines.Strings = (
+        'Memo1')
+      TabOrder = 0
+    end
+    object Memo2: TMemo
+      Left = 455
+      Top = 1
+      Width = 462
+      Height = 217
+      Align = alRight
+      Lines.Strings = (
+        'Memo2')
+      TabOrder = 1
+    end
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 768
+    Top = 24
+  end
+  object conexao: TSQLConnection
+    ConnectionName = 'SisFraldas'
+    DriverName = 'Firebird'
+    LoginPrompt = False
+    Params.Strings = (
+      'DriverName=Firebird'
+      'DriverUnit=Data.DBXFirebird'
+      
+        'DriverPackageLoader=TDBXDynalinkDriverLoader,DbxCommonDriver270.' +
+        'bpl'
+      
+        'DriverAssemblyLoader=Borland.Data.TDBXDynalinkDriverLoader,Borla' +
+        'nd.Data.DbxCommonDriver,Version=24.0.0.0,Culture=neutral,PublicK' +
+        'eyToken=91d62ebb5b0d1b1b'
+      
+        'MetaDataPackageLoader=TDBXFirebirdMetaDataCommandFactory,DbxFire' +
+        'birdDriver270.bpl'
+      
+        'MetaDataAssemblyLoader=Borland.Data.TDBXFirebirdMetaDataCommandF' +
+        'actory,Borland.Data.DbxFirebirdDriver,Version=24.0.0.0,Culture=n' +
+        'eutral,PublicKeyToken=91d62ebb5b0d1b1b'
+      'LibraryName=dbxfb.dll'
+      'LibraryNameOsx=libsqlfb.dylib'
+      'VendorLib=fbclient.dll'
+      'VendorLibWin64=fbclient.dll'
+      'VendorLibOsx=/Library/Frameworks/Firebird.framework/Firebird'
+      
+        'Database=lojadasfraldas.ddns.us:/bminfo/webapps/sisfraldas/bmfra' +
+        'ldas.fdb'
+      'User_Name=sysdba'
+      'Password=fraldas_'
+      'Role=RoleName'
+      'MaxBlobSize=-1'
+      'LocaleCode=0000'
+      'IsolationLevel=ReadCommitted'
+      'SQLDialect=3'
+      'CommitRetain=False'
+      'WaitOnLocks=True'
+      'TrimChar=False'
+      'BlobSize=-1'
+      'ErrorResourceFile='
+      'RoleName=RoleName'
+      'ServerCharSet='
+      'Trim Char=False')
+    Left = 64
+    Top = 353
+  end
+  object sdsEnviaWhats: TSQLDataSet
+    CommandText = 
+      'select * from vendasfone where vf_enviado = '#39'N'#39'order by vf_id de' +
+      'sc'
+    MaxBlobSize = -1
+    Params = <>
+    SQLConnection = conexao
+    Left = 216
+    Top = 353
+  end
+  object dspEnviaWhats: TDataSetProvider
+    DataSet = sdsEnviaWhats
+    Options = [poAllowCommandText, poUseQuoteChar]
+    Left = 376
+    Top = 353
+  end
+  object cdsEnviaWhats: TClientDataSet
+    Aggregates = <>
+    CommandText = 
+      'select * from vendasfone where vf_enviado = '#39'N'#39'order by vf_id de' +
+      'sc'
+    Params = <>
+    ProviderName = 'dspEnviaWhats'
+    Left = 536
+    Top = 353
+  end
+  object dsEnviaWhats: TDataSource
+    DataSet = cdsEnviaWhats
+    Left = 696
+    Top = 353
+  end
+  object Inject1: TInject
+    InjectJS.AutoUpdate = False
+    InjectJS.AutoUpdateTimeOut = 10
+    Config.AutoDelay = 1000
+    AjustNumber.LengthPhone = 8
+    AjustNumber.DDIDefault = 55
+    FormQrCodeType = Ft_Http
+    Left = 832
+    Top = 24
+  end
+end

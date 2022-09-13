@@ -1,0 +1,276 @@
+
+
+[02/12/21 15:25:22 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517992280018@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517992280018@c.us\",\"id\":\"01C58115AD92E315CFAE27357D3F80D8\",\"_serialized\":\"true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8\"},\"t\":1638469520,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99228-0018\",\"contact\":{\"id\":\"5517992280018@c.us\",\"pushname\":\"Grazi&Edu??????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99228-0018\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517992280018@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8\",\"body\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"type\":\"chat\",\"t\":1638469520,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517992280018@c.us\",\"self\":\"in\",\"ack\":1,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1638469521,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517992280018@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D\",\"msgs\":null},\"timestamp\":1638469520,\"content\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517992280018@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517992280018@c.us\",\"id\":\"01C58115AD92E315CFAE27357D3F80D8\",\"_serialized\":\"true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8\"},\"t\":1638469520,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99228-0018\",\"contact\":{\"id\":\"5517992280018@c.us\",\"pushname\":\"Grazi&Edu??????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99228-0018\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517992280018@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}},{\"id\":\"false_5517992280018@c.us_28F13251D49EA31E50BCDECC1E3BBE3D\",\"body\":\"Oi tem promocaes\",\"type\":\"chat\",\"t\":1638469519,\"notifyName\":\"\",\"from\":\"5517992280018@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517992280018@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517992280018@c.us\",\"pushname\":\"Grazi&Edu??????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99228-0018\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D\",\"msgs\":null},\"timestamp\":1638469519,\"content\":\"Oi tem promocaes\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517992280018@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517992280018@c.us\",\"id\":\"01C58115AD92E315CFAE27357D3F80D8\",\"_serialized\":\"true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8\"},\"t\":1638469520,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99228-0018\",\"contact\":{\"id\":\"5517992280018@c.us\",\"pushname\":\"Grazi&Edu??????\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99228-0018\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517992280018@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 15:25:22 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517992280018@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517992280018@c.us",
+                "id": "01C58115AD92E315CFAE27357D3F80D8",
+                "_serialized": "true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8"
+            },
+            "t": 1638469520,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99228-0018",
+            "contact": {
+                "id": "5517992280018@c.us",
+                "pushname": "Grazi&Edu??????",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99228-0018",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517992280018@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8",
+                    "body": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "type": "chat",
+                    "t": 1638469520,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517992280018@c.us",
+                    "self": "in",
+                    "ack": 1,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1638469521,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517992280018@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638469520,
+                    "content": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517992280018@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517992280018@c.us",
+                            "id": "01C58115AD92E315CFAE27357D3F80D8",
+                            "_serialized": "true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8"
+                        },
+                        "t": 1638469520,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99228-0018",
+                        "contact": {
+                            "id": "5517992280018@c.us",
+                            "pushname": "Grazi&Edu??????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99228-0018",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517992280018@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                },
+                {
+                    "id": "false_5517992280018@c.us_28F13251D49EA31E50BCDECC1E3BBE3D",
+                    "body": "Oi tem promocaes",
+                    "type": "chat",
+                    "t": 1638469519,
+                    "notifyName": "",
+                    "from": "5517992280018@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517992280018@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517992280018@c.us",
+                        "pushname": "Grazi&Edu??????",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99228-0018",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638469519,
+                    "content": "Oi tem promocaes",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517992280018@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517992280018@c.us",
+                            "id": "01C58115AD92E315CFAE27357D3F80D8",
+                            "_serialized": "true_5517992280018@c.us_01C58115AD92E315CFAE27357D3F80D8"
+                        },
+                        "t": 1638469520,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99228-0018",
+                        "contact": {
+                            "id": "5517992280018@c.us",
+                            "pushname": "Grazi&Edu??????",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99228-0018",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181119582_970302930551085_3136898147524830288_n.jpg%3Fccb%3D11-4%26oh%3De5acb5f51402310ec5ca8f2e2adffd6d%26oe%3D61AD9EE5&t=l&u=5517992280018%40c.us&i=1635955649&n=x8ZkgeDUpISxDmmXXcyWUuP9C5mQ3nVKixHm7qydOI0%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517992280018@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,638 @@
+
+
+[02/12/21 13:08:44 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999795481@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999795481@c.us\",\"id\":\"5294FCE7EBE8CA9089CE493602D42BC5\",\"_serialized\":\"false_5517999795481@c.us_5294FCE7EBE8CA9089CE493602D42BC5\"},\"t\":1638461323,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99979-5481\",\"contact\":{\"id\":\"5517999795481@c.us\",\"pushname\":\"Silvia Helena??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99979-5481\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999795481@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517999795481@c.us_5294FCE7EBE8CA9089CE493602D42BC5\",\"type\":\"sticker\",\"t\":1638461323,\"notifyName\":\"\",\"from\":\"5517999795481@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"deprecatedMms3Url\":\"https://mmg.whatsapp.net/d/f/Agsd6Eprq4WUz14NI-OQprpjCDPCozXkQRMoV0A5owLZ.enc\",\"directPath\":\"/v/t62.15575-24/29953452_590698605326908_9069869207156105948_n.enc?ccb=11-4&oh=0aa9062e1793645d8bf2fe96987aed73&oe=61CD6963\",\"mimetype\":\"image/webp\",\"filehash\":\"3bHRIYt7TkXtFvw8DDRQeM/nJmmdIUFOM+6q01E7brU=\",\"encFilehash\":\"FvSu9Rb+4wq7Ac8OjOIaXJHBXjIo90nia+wq30W4rRA=\",\"mediaKey\":\"hp/3ETvnqT6m8FZv5JcfMJ5jLIn6TKaGhmx1JfOVPTM=\",\"mediaKeyTimestamp\":1638459025,\"width\":64,\"height\":64,\"isFromTemplate\":false,\"isAnimated\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999795481@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999795481@c.us\",\"pushname\":\"Silvia Helena??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99979-5481\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D\",\"msgs\":null},\"timestamp\":1638461323,\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999795481@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517999795481@c.us\",\"id\":\"5294FCE7EBE8CA9089CE493602D42BC5\",\"_serialized\":\"false_5517999795481@c.us_5294FCE7EBE8CA9089CE493602D42BC5\"},\"t\":1638461323,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99979-5481\",\"contact\":{\"id\":\"5517999795481@c.us\",\"pushname\":\"Silvia Helena??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99979-5481\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999795481@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{\"type\":\"sticker\",\"mediaStage\":\"INIT\",\"filehash\":\"3bHRIYt7TkXtFvw8DDRQeM/nJmmdIUFOM+6q01E7brU=\",\"mimetype\":\"image/webp\",\"mediaBlob\":null,\"fullHeight\":64,\"fullWidth\":64,\"aspectRatio\":1,\"animatedAsNewMsg\":false,\"isAnimated\":false,\"_swStreamingSupported\":false,\"_listeningToSwSupport\":false,\"isVcardOverMmsDocument\":false}}]}]}"}
+[02/12/21 13:08:44 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999795481@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517999795481@c.us",
+                "id": "5294FCE7EBE8CA9089CE493602D42BC5",
+                "_serialized": "false_5517999795481@c.us_5294FCE7EBE8CA9089CE493602D42BC5"
+            },
+            "t": 1638461323,
+            "unreadCount": 1,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99979-5481",
+            "contact": {
+                "id": "5517999795481@c.us",
+                "pushname": "Silvia Helena??",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99979-5481",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999795481@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517999795481@c.us_5294FCE7EBE8CA9089CE493602D42BC5",
+                    "type": "sticker",
+                    "t": 1638461323,
+                    "notifyName": "",
+                    "from": "5517999795481@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "deprecatedMms3Url": "https:\/\/mmg.whatsapp.net\/d\/f\/Agsd6Eprq4WUz14NI-OQprpjCDPCozXkQRMoV0A5owLZ.enc",
+                    "directPath": "\/v\/t62.15575-24\/29953452_590698605326908_9069869207156105948_n.enc?ccb=11-4&oh=0aa9062e1793645d8bf2fe96987aed73&oe=61CD6963",
+                    "mimetype": "image\/webp",
+                    "filehash": "3bHRIYt7TkXtFvw8DDRQeM\/nJmmdIUFOM+6q01E7brU=",
+                    "encFilehash": "FvSu9Rb+4wq7Ac8OjOIaXJHBXjIo90nia+wq30W4rRA=",
+                    "mediaKey": "hp\/3ETvnqT6m8FZv5JcfMJ5jLIn6TKaGhmx1JfOVPTM=",
+                    "mediaKeyTimestamp": 1638459025,
+                    "width": 64,
+                    "height": 64,
+                    "isFromTemplate": false,
+                    "isAnimated": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999795481@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999795481@c.us",
+                        "pushname": "Silvia Helena??",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99979-5481",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638461323,
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999795481@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517999795481@c.us",
+                            "id": "5294FCE7EBE8CA9089CE493602D42BC5",
+                            "_serialized": "false_5517999795481@c.us_5294FCE7EBE8CA9089CE493602D42BC5"
+                        },
+                        "t": 1638461323,
+                        "unreadCount": 1,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99979-5481",
+                        "contact": {
+                            "id": "5517999795481@c.us",
+                            "pushname": "Silvia Helena??",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99979-5481",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999795481@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                        "type": "sticker",
+                        "mediaStage": "INIT",
+                        "filehash": "3bHRIYt7TkXtFvw8DDRQeM\/nJmmdIUFOM+6q01E7brU=",
+                        "mimetype": "image\/webp",
+                        "mediaBlob": null,
+                        "fullHeight": 64,
+                        "fullWidth": 64,
+                        "aspectRatio": 1,
+                        "animatedAsNewMsg": false,
+                        "isAnimated": false,
+                        "_swStreamingSupported": false,
+                        "_listeningToSwSupport": false,
+                        "isVcardOverMmsDocument": false
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[02/12/21 13:08:46 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999795481@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999795481@c.us\",\"id\":\"C88A37963F25695149AB66EB58830B39\",\"_serialized\":\"true_5517999795481@c.us_C88A37963F25695149AB66EB58830B39\"},\"t\":1638461324,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99979-5481\",\"contact\":{\"id\":\"5517999795481@c.us\",\"pushname\":\"Silvia Helena??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99979-5481\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999795481@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999795481@c.us_C88A37963F25695149AB66EB58830B39\",\"body\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"type\":\"chat\",\"t\":1638461324,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999795481@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1638461325,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999795481@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D\",\"msgs\":null},\"timestamp\":1638461324,\"content\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999795481@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999795481@c.us\",\"id\":\"C88A37963F25695149AB66EB58830B39\",\"_serialized\":\"true_5517999795481@c.us_C88A37963F25695149AB66EB58830B39\"},\"t\":1638461324,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99979-5481\",\"contact\":{\"id\":\"5517999795481@c.us\",\"pushname\":\"Silvia Helena??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99979-5481\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999795481@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 13:08:46 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999795481@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999795481@c.us",
+                "id": "C88A37963F25695149AB66EB58830B39",
+                "_serialized": "true_5517999795481@c.us_C88A37963F25695149AB66EB58830B39"
+            },
+            "t": 1638461324,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99979-5481",
+            "contact": {
+                "id": "5517999795481@c.us",
+                "pushname": "Silvia Helena??",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99979-5481",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999795481@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999795481@c.us_C88A37963F25695149AB66EB58830B39",
+                    "body": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "type": "chat",
+                    "t": 1638461324,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999795481@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1638461325,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999795481@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638461324,
+                    "content": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999795481@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999795481@c.us",
+                            "id": "C88A37963F25695149AB66EB58830B39",
+                            "_serialized": "true_5517999795481@c.us_C88A37963F25695149AB66EB58830B39"
+                        },
+                        "t": 1638461324,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99979-5481",
+                        "contact": {
+                            "id": "5517999795481@c.us",
+                            "pushname": "Silvia Helena??",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99979-5481",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143079960_320675159325618_2158914318963080939_n.jpg%3Fccb%3D11-4%26oh%3D2796327b4eff033f5e010cd958f590db%26oe%3D61AD5988&t=l&u=5517999795481%40c.us&i=1611508550&n=M2IfCMI8MW35b4KWIkzUQ4OqOf2cqKYdu9z%2FplXe6SE%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999795481@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[02/12/21 13:09:13 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999763010@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999763010@c.us\",\"id\":\"2C779ED92652E82727DC1455EFF23E17\",\"_serialized\":\"true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17\"},\"t\":1638461353,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99976-3010\",\"contact\":{\"id\":\"5517999763010@c.us\",\"type\":\"in\",\"verifiedName\":\"maxgoncalvesgoncalves\",\"isBusiness\":true,\"isEnterprise\":false,\"verifiedLevel\":0,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99976-3010\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999763010@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17\",\"body\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"type\":\"chat\",\"t\":1638461353,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999763010@c.us\",\"self\":\"in\",\"ack\":1,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1638461353,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999763010@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D\",\"msgs\":null},\"timestamp\":1638461353,\"content\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999763010@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999763010@c.us\",\"id\":\"2C779ED92652E82727DC1455EFF23E17\",\"_serialized\":\"true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17\"},\"t\":1638461353,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99976-3010\",\"contact\":{\"id\":\"5517999763010@c.us\",\"type\":\"in\",\"verifiedName\":\"maxgoncalvesgoncalves\",\"isBusiness\":true,\"isEnterprise\":false,\"verifiedLevel\":0,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99976-3010\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999763010@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}},{\"id\":\"false_5517999763010@c.us_85559A1ACDD6DCD84429A3B8E8D4F3E2\",\"body\":\"1\",\"type\":\"chat\",\"t\":1638461352,\"notifyName\":\"\",\"from\":\"5517999763010@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999763010@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517999763010@c.us\",\"type\":\"in\",\"verifiedName\":\"maxgoncalvesgoncalves\",\"isBusiness\":true,\"isEnterprise\":false,\"verifiedLevel\":0,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99976-3010\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D\",\"msgs\":null},\"timestamp\":1638461352,\"content\":\"1\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999763010@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999763010@c.us\",\"id\":\"2C779ED92652E82727DC1455EFF23E17\",\"_serialized\":\"true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17\"},\"t\":1638461353,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99976-3010\",\"contact\":{\"id\":\"5517999763010@c.us\",\"type\":\"in\",\"verifiedName\":\"maxgoncalvesgoncalves\",\"isBusiness\":true,\"isEnterprise\":false,\"verifiedLevel\":0,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99976-3010\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999763010@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 13:09:13 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999763010@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999763010@c.us",
+                "id": "2C779ED92652E82727DC1455EFF23E17",
+                "_serialized": "true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17"
+            },
+            "t": 1638461353,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99976-3010",
+            "contact": {
+                "id": "5517999763010@c.us",
+                "type": "in",
+                "verifiedName": "maxgoncalvesgoncalves",
+                "isBusiness": true,
+                "isEnterprise": false,
+                "verifiedLevel": 0,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99976-3010",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999763010@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17",
+                    "body": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "type": "chat",
+                    "t": 1638461353,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999763010@c.us",
+                    "self": "in",
+                    "ack": 1,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1638461353,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999763010@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638461353,
+                    "content": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999763010@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999763010@c.us",
+                            "id": "2C779ED92652E82727DC1455EFF23E17",
+                            "_serialized": "true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17"
+                        },
+                        "t": 1638461353,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99976-3010",
+                        "contact": {
+                            "id": "5517999763010@c.us",
+                            "type": "in",
+                            "verifiedName": "maxgoncalvesgoncalves",
+                            "isBusiness": true,
+                            "isEnterprise": false,
+                            "verifiedLevel": 0,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99976-3010",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999763010@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                },
+                {
+                    "id": "false_5517999763010@c.us_85559A1ACDD6DCD84429A3B8E8D4F3E2",
+                    "body": "1",
+                    "type": "chat",
+                    "t": 1638461352,
+                    "notifyName": "",
+                    "from": "5517999763010@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999763010@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517999763010@c.us",
+                        "type": "in",
+                        "verifiedName": "maxgoncalvesgoncalves",
+                        "isBusiness": true,
+                        "isEnterprise": false,
+                        "verifiedLevel": 0,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99976-3010",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638461352,
+                    "content": "1",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999763010@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999763010@c.us",
+                            "id": "2C779ED92652E82727DC1455EFF23E17",
+                            "_serialized": "true_5517999763010@c.us_2C779ED92652E82727DC1455EFF23E17"
+                        },
+                        "t": 1638461353,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99976-3010",
+                        "contact": {
+                            "id": "5517999763010@c.us",
+                            "type": "in",
+                            "verifiedName": "maxgoncalvesgoncalves",
+                            "isBusiness": true,
+                            "isEnterprise": false,
+                            "verifiedLevel": 0,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99976-3010",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F263457178_646749893019396_5111702950554049404_n.jpg%3Fccb%3D11-4%26oh%3Dfc899bef3c54e2e0452f800f987af6b4%26oe%3D61AD6658&t=l&u=5517999763010%40c.us&i=1638378769&n=KSyny0I4ySewTcJ20Z4i7FOsBd0rOY88VQ9LngUIhEY%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999763010@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}

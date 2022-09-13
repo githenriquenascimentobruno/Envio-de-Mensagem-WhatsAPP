@@ -1,0 +1,1008 @@
+
+
+[02/12/21 17:00:14 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517981070211@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517981070211@c.us\",\"id\":\"3A3CDFFA9F90575622A3\",\"_serialized\":\"false_5517981070211@c.us_3A3CDFFA9F90575622A3\"},\"t\":1638475204,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98107-0211\",\"contact\":{\"id\":\"5517981070211@c.us\",\"pushname\":\"paty\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98107-0211\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981070211@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517981070211@c.us_3A3CDFFA9F90575622A3\",\"body\":\"paranoa cartao\",\"type\":\"chat\",\"t\":1638475204,\"notifyName\":\"\",\"from\":\"5517981070211@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517981070211@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517981070211@c.us\",\"pushname\":\"paty\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98107-0211\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D\",\"msgs\":null},\"timestamp\":1638475204,\"content\":\"paranoa cartao\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517981070211@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517981070211@c.us\",\"id\":\"3A3CDFFA9F90575622A3\",\"_serialized\":\"false_5517981070211@c.us_3A3CDFFA9F90575622A3\"},\"t\":1638475204,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98107-0211\",\"contact\":{\"id\":\"5517981070211@c.us\",\"pushname\":\"paty\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98107-0211\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981070211@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 17:00:14 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517981070211@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517981070211@c.us",
+                "id": "3A3CDFFA9F90575622A3",
+                "_serialized": "false_5517981070211@c.us_3A3CDFFA9F90575622A3"
+            },
+            "t": 1638475204,
+            "unreadCount": 1,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 98107-0211",
+            "contact": {
+                "id": "5517981070211@c.us",
+                "pushname": "paty",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 98107-0211",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517981070211@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517981070211@c.us_3A3CDFFA9F90575622A3",
+                    "body": "paranoa cartao",
+                    "type": "chat",
+                    "t": 1638475204,
+                    "notifyName": "",
+                    "from": "5517981070211@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517981070211@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517981070211@c.us",
+                        "pushname": "paty",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 98107-0211",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638475204,
+                    "content": "paranoa cartao",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517981070211@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517981070211@c.us",
+                            "id": "3A3CDFFA9F90575622A3",
+                            "_serialized": "false_5517981070211@c.us_3A3CDFFA9F90575622A3"
+                        },
+                        "t": 1638475204,
+                        "unreadCount": 1,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 98107-0211",
+                        "contact": {
+                            "id": "5517981070211@c.us",
+                            "pushname": "paty",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 98107-0211",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517981070211@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[02/12/21 17:00:20 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517981070211@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517981070211@c.us\",\"id\":\"6761D3CA00E7FCD84A55AEE3E9826468\",\"_serialized\":\"true_5517981070211@c.us_6761D3CA00E7FCD84A55AEE3E9826468\"},\"t\":1638475214,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98107-0211\",\"contact\":{\"id\":\"5517981070211@c.us\",\"pushname\":\"paty\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98107-0211\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981070211@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517981070211@c.us_6761D3CA00E7FCD84A55AEE3E9826468\",\"body\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"type\":\"chat\",\"t\":1638475214,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517981070211@c.us\",\"self\":\"in\",\"ack\":1,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1638475219,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517981070211@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D\",\"msgs\":null},\"timestamp\":1638475214,\"content\":\"*Resposta automatica* \\nOla, no momento estamos todos ocupados!\\n\\nAssim que possivel responderemos a todos o mais rapido possivel!\\n\\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\\n\\nAgradecemos a compreensao!\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517981070211@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517981070211@c.us\",\"id\":\"6761D3CA00E7FCD84A55AEE3E9826468\",\"_serialized\":\"true_5517981070211@c.us_6761D3CA00E7FCD84A55AEE3E9826468\"},\"t\":1638475214,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98107-0211\",\"contact\":{\"id\":\"5517981070211@c.us\",\"pushname\":\"paty\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98107-0211\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981070211@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 17:00:20 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517981070211@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517981070211@c.us",
+                "id": "6761D3CA00E7FCD84A55AEE3E9826468",
+                "_serialized": "true_5517981070211@c.us_6761D3CA00E7FCD84A55AEE3E9826468"
+            },
+            "t": 1638475214,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 98107-0211",
+            "contact": {
+                "id": "5517981070211@c.us",
+                "pushname": "paty",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 98107-0211",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517981070211@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517981070211@c.us_6761D3CA00E7FCD84A55AEE3E9826468",
+                    "body": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "type": "chat",
+                    "t": 1638475214,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517981070211@c.us",
+                    "self": "in",
+                    "ack": 1,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1638475219,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517981070211@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638475214,
+                    "content": "*Resposta automatica* \nOla, no momento estamos todos ocupados!\n\nAssim que possivel responderemos a todos o mais rapido possivel!\n\nPara maior agilidade ligue 3331-9700 ou envie uma mensagem de whatsapp para o numero 99191-9712.\n\nAgradecemos a compreensao!",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517981070211@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517981070211@c.us",
+                            "id": "6761D3CA00E7FCD84A55AEE3E9826468",
+                            "_serialized": "true_5517981070211@c.us_6761D3CA00E7FCD84A55AEE3E9826468"
+                        },
+                        "t": 1638475214,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 98107-0211",
+                        "contact": {
+                            "id": "5517981070211@c.us",
+                            "pushname": "paty",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 98107-0211",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F260683818_432904105111764_3461869280885705633_n.jpg%3Fccb%3D11-4%26oh%3D88cfc7c095dddb8f4478819841809652%26oe%3D61AD31D4&t=l&u=5517981070211%40c.us&i=1637613903&n=M6ZZMKO38YSsV5swsGjlr3xlxB%2FtdBIp%2B34wo9cGSfw%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517981070211@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[02/12/21 17:00:49 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991941734@c.us\",\"id\":\"CCC6E1E5643DB1336BDA4B46D572EB35\",\"_serialized\":\"true_5517991941734@c.us_CCC6E1E5643DB1336BDA4B46D572EB35\"},\"t\":1638475249,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517991941734@c.us_3EB0D806774B9EE5744A\",\"body\":\"boa tarde\",\"type\":\"chat\",\"subtype\":null,\"t\":1638475249,\"from\":\"5517999772966@c.us\",\"to\":\"5517991941734@c.us\",\"self\":\"out\",\"ack\":0,\"isNewMsg\":false,\"star\":false,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":null,\"chatId\":\"5517991941734@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D\",\"msgs\":null},\"timestamp\":1638475249,\"content\":\"boa tarde\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991941734@c.us\",\"id\":\"CCC6E1E5643DB1336BDA4B46D572EB35\",\"_serialized\":\"true_5517991941734@c.us_CCC6E1E5643DB1336BDA4B46D572EB35\"},\"t\":1638475249,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 17:00:49 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991941734@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517991941734@c.us",
+                "id": "CCC6E1E5643DB1336BDA4B46D572EB35",
+                "_serialized": "true_5517991941734@c.us_CCC6E1E5643DB1336BDA4B46D572EB35"
+            },
+            "t": 1638475249,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99194-1734",
+            "contact": {
+                "id": "5517991941734@c.us",
+                "pushname": "Nara Karla",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99194-1734",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991941734@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517991941734@c.us_3EB0D806774B9EE5744A",
+                    "body": "boa tarde",
+                    "type": "chat",
+                    "subtype": null,
+                    "t": 1638475249,
+                    "from": "5517999772966@c.us",
+                    "to": "5517991941734@c.us",
+                    "self": "out",
+                    "ack": 0,
+                    "isNewMsg": false,
+                    "star": false,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": null,
+                    "chatId": "5517991941734@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638475249,
+                    "content": "boa tarde",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991941734@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517991941734@c.us",
+                            "id": "CCC6E1E5643DB1336BDA4B46D572EB35",
+                            "_serialized": "true_5517991941734@c.us_CCC6E1E5643DB1336BDA4B46D572EB35"
+                        },
+                        "t": 1638475249,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99194-1734",
+                        "contact": {
+                            "id": "5517991941734@c.us",
+                            "pushname": "Nara Karla",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99194-1734",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991941734@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[02/12/21 17:00:52 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991941734@c.us\",\"id\":\"3EB0D806774B9EE5744A\",\"_serialized\":\"true_5517991941734@c.us_3EB0D806774B9EE5744A\"},\"t\":1638475252,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517991941734@c.us_3EB06B44B51B0D8CF040\",\"body\":\"como posso ajudar?\",\"type\":\"chat\",\"subtype\":null,\"t\":1638475252,\"from\":\"5517999772966@c.us\",\"to\":\"5517991941734@c.us\",\"self\":\"out\",\"ack\":0,\"isNewMsg\":false,\"star\":false,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":null,\"chatId\":\"5517991941734@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D\",\"msgs\":null},\"timestamp\":1638475252,\"content\":\"como posso ajudar?\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991941734@c.us\",\"id\":\"3EB0D806774B9EE5744A\",\"_serialized\":\"true_5517991941734@c.us_3EB0D806774B9EE5744A\"},\"t\":1638475252,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 17:00:52 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991941734@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517991941734@c.us",
+                "id": "3EB0D806774B9EE5744A",
+                "_serialized": "true_5517991941734@c.us_3EB0D806774B9EE5744A"
+            },
+            "t": 1638475252,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99194-1734",
+            "contact": {
+                "id": "5517991941734@c.us",
+                "pushname": "Nara Karla",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99194-1734",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991941734@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517991941734@c.us_3EB06B44B51B0D8CF040",
+                    "body": "como posso ajudar?",
+                    "type": "chat",
+                    "subtype": null,
+                    "t": 1638475252,
+                    "from": "5517999772966@c.us",
+                    "to": "5517991941734@c.us",
+                    "self": "out",
+                    "ack": 0,
+                    "isNewMsg": false,
+                    "star": false,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": null,
+                    "chatId": "5517991941734@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638475252,
+                    "content": "como posso ajudar?",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991941734@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517991941734@c.us",
+                            "id": "3EB0D806774B9EE5744A",
+                            "_serialized": "true_5517991941734@c.us_3EB0D806774B9EE5744A"
+                        },
+                        "t": 1638475252,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99194-1734",
+                        "contact": {
+                            "id": "5517991941734@c.us",
+                            "pushname": "Nara Karla",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99194-1734",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991941734@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[02/12/21 17:01:23 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517991941734@c.us\",\"id\":\"BB487DD0E2A8AF9A098AFE3E81302B45\",\"_serialized\":\"false_5517991941734@c.us_BB487DD0E2A8AF9A098AFE3E81302B45\"},\"t\":1638475280,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517991941734@c.us_BB487DD0E2A8AF9A098AFE3E81302B45\",\"type\":\"ptt\",\"t\":1638475280,\"notifyName\":\"\",\"from\":\"5517991941734@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"deprecatedMms3Url\":\"https://mmg.whatsapp.net/d/f/AmKWeM83CDfqo5pa9naZiNC9EZOAPR8MgW7hlZBP0icw.enc\",\"directPath\":\"/v/t62.7117-24/41200325_459520559129657_6279542391751063062_n.enc?ccb=11-4&oh=cd1ffb83ef24b42b7161b53d88002406&oe=61CCD9B3\",\"mimetype\":\"audio/ogg; codecs=opus\",\"duration\":\"5\",\"filehash\":\"r3MBqFv2o93YdA7KwtTiAJUJs7ZTxFZDjcYflZxN6u4=\",\"encFilehash\":\"8EMssAaeBkkrymftS1+HGXzls1acpJgSwhyWnFhrDSE=\",\"size\":12872,\"mediaKey\":\"/7oADtoYuAK3/n4PgEUcWXgkEjVYWBCwzxxRBhipVG8=\",\"mediaKeyTimestamp\":1638475273,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517991941734@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"timestamp\":1638475280,\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517991941734@c.us\",\"id\":\"BB487DD0E2A8AF9A098AFE3E81302B45\",\"_serialized\":\"false_5517991941734@c.us_BB487DD0E2A8AF9A098AFE3E81302B45\"},\"t\":1638475280,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{\"type\":\"ptt\",\"mediaStage\":\"INIT\",\"size\":12872,\"filehash\":\"r3MBqFv2o93YdA7KwtTiAJUJs7ZTxFZDjcYflZxN6u4=\",\"mimetype\":\"audio/ogg; codecs=opus\",\"mediaBlob\":null,\"animationDuration\":0,\"animatedAsNewMsg\":false,\"duration\":\"5\",\"_swStreamingSupported\":false,\"_listeningToSwSupport\":false,\"isVcardOverMmsDocument\":false}}]}]}"}
+[02/12/21 17:01:23 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991941734@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517991941734@c.us",
+                "id": "BB487DD0E2A8AF9A098AFE3E81302B45",
+                "_serialized": "false_5517991941734@c.us_BB487DD0E2A8AF9A098AFE3E81302B45"
+            },
+            "t": 1638475280,
+            "unreadCount": 1,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99194-1734",
+            "contact": {
+                "id": "5517991941734@c.us",
+                "pushname": "Nara Karla",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99194-1734",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991941734@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517991941734@c.us_BB487DD0E2A8AF9A098AFE3E81302B45",
+                    "type": "ptt",
+                    "t": 1638475280,
+                    "notifyName": "",
+                    "from": "5517991941734@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "deprecatedMms3Url": "https:\/\/mmg.whatsapp.net\/d\/f\/AmKWeM83CDfqo5pa9naZiNC9EZOAPR8MgW7hlZBP0icw.enc",
+                    "directPath": "\/v\/t62.7117-24\/41200325_459520559129657_6279542391751063062_n.enc?ccb=11-4&oh=cd1ffb83ef24b42b7161b53d88002406&oe=61CCD9B3",
+                    "mimetype": "audio\/ogg; codecs=opus",
+                    "duration": "5",
+                    "filehash": "r3MBqFv2o93YdA7KwtTiAJUJs7ZTxFZDjcYflZxN6u4=",
+                    "encFilehash": "8EMssAaeBkkrymftS1+HGXzls1acpJgSwhyWnFhrDSE=",
+                    "size": 12872,
+                    "mediaKey": "\/7oADtoYuAK3\/n4PgEUcWXgkEjVYWBCwzxxRBhipVG8=",
+                    "mediaKeyTimestamp": 1638475273,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517991941734@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517991941734@c.us",
+                        "pushname": "Nara Karla",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99194-1734",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638475280,
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991941734@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517991941734@c.us",
+                            "id": "BB487DD0E2A8AF9A098AFE3E81302B45",
+                            "_serialized": "false_5517991941734@c.us_BB487DD0E2A8AF9A098AFE3E81302B45"
+                        },
+                        "t": 1638475280,
+                        "unreadCount": 1,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99194-1734",
+                        "contact": {
+                            "id": "5517991941734@c.us",
+                            "pushname": "Nara Karla",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99194-1734",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991941734@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                        "type": "ptt",
+                        "mediaStage": "INIT",
+                        "size": 12872,
+                        "filehash": "r3MBqFv2o93YdA7KwtTiAJUJs7ZTxFZDjcYflZxN6u4=",
+                        "mimetype": "audio\/ogg; codecs=opus",
+                        "mediaBlob": null,
+                        "animationDuration": 0,
+                        "animatedAsNewMsg": false,
+                        "duration": "5",
+                        "_swStreamingSupported": false,
+                        "_listeningToSwSupport": false,
+                        "isVcardOverMmsDocument": false
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[02/12/21 17:01:41 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991941734@c.us\",\"id\":\"3EB0FF9C93F344EFB107\",\"_serialized\":\"true_5517991941734@c.us_3EB0FF9C93F344EFB107\"},\"t\":1638475299,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517991941734@c.us_3EB0FF9C93F344EFB107\",\"body\":\"Ok.Obrigada nos, precisando estamos a dispoosicao\",\"type\":\"chat\",\"subtype\":null,\"t\":1638475299,\"from\":\"5517999772966@c.us\",\"to\":\"5517991941734@c.us\",\"self\":\"out\",\"ack\":1,\"isNewMsg\":false,\"star\":false,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"ephemeralStartTimestamp\":1638475299,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":null,\"chatId\":\"5517991941734@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D\",\"msgs\":null},\"timestamp\":1638475299,\"content\":\"Ok.Obrigada nos, precisando estamos a dispoosicao\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991941734@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991941734@c.us\",\"id\":\"3EB0FF9C93F344EFB107\",\"_serialized\":\"true_5517991941734@c.us_3EB0FF9C93F344EFB107\"},\"t\":1638475299,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99194-1734\",\"contact\":{\"id\":\"5517991941734@c.us\",\"pushname\":\"Nara Karla\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99194-1734\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991941734@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[02/12/21 17:01:41 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991941734@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517991941734@c.us",
+                "id": "3EB0FF9C93F344EFB107",
+                "_serialized": "true_5517991941734@c.us_3EB0FF9C93F344EFB107"
+            },
+            "t": 1638475299,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99194-1734",
+            "contact": {
+                "id": "5517991941734@c.us",
+                "pushname": "Nara Karla",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99194-1734",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991941734@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517991941734@c.us_3EB0FF9C93F344EFB107",
+                    "body": "Ok.Obrigada nos, precisando estamos a dispoosicao",
+                    "type": "chat",
+                    "subtype": null,
+                    "t": 1638475299,
+                    "from": "5517999772966@c.us",
+                    "to": "5517991941734@c.us",
+                    "self": "out",
+                    "ack": 1,
+                    "isNewMsg": false,
+                    "star": false,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "ephemeralStartTimestamp": 1638475299,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": null,
+                    "chatId": "5517991941734@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D21ae51220b04264c3ab933af66791bdf%26oe%3D61AD68D0&t=l&u=5517999772966%40c.us&i=1615923586&n=DE%2FOhJwCrSncRARJjVjrVYOSCIy9ePzl4Y0AeCoQkdU%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1638475299,
+                    "content": "Ok.Obrigada nos, precisando estamos a dispoosicao",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991941734@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517991941734@c.us",
+                            "id": "3EB0FF9C93F344EFB107",
+                            "_serialized": "true_5517991941734@c.us_3EB0FF9C93F344EFB107"
+                        },
+                        "t": 1638475299,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99194-1734",
+                        "contact": {
+                            "id": "5517991941734@c.us",
+                            "pushname": "Nara Karla",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99194-1734",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F196655522_2074036149427052_8070010137653844835_n.jpg%3Fccb%3D11-4%26oh%3D0734d5acf453c02bc47a31a709095b63%26oe%3D61AE2E5D&t=l&u=5517991941734%40c.us&i=1635035724&n=APE8wg0xRwleXixUDRkraSU11TM%2FQzV5nAmR9xplwb0%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991941734@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}

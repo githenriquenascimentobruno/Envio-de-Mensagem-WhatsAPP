@@ -1,0 +1,18 @@
+
+[26/08/21 11:50:36]  Versao TInject: 3.3.0.0
+[26/08/21 11:50:36]  Versao  JS.ABR: 1.0.4.0
+[26/08/21 11:50:36]  Versao     CEF: 78.3.0
+[26/08/21 11:50:36]   
+[26/08/21 11:50:37]  Versao TInject: 3.3.0.0
+[26/08/21 11:50:37]  Versao  JS.ABR: 1.0.4.0
+[26/08/21 11:50:37]  Versao     CEF: 78.3.0
+[26/08/21 11:50:37]   
+[26/08/21 11:50:38 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'toDataURL' of undefined
+
+[26/08/21 11:51:10 - CONSOLE]  
+{"name":"getMyNumber","result":"{\"result\":\"5517999772966@c.us\"}"}
+[26/08/21 11:51:10 - TResponseMyNumber]  
+{
+    "result": "5517999772966@c.us"
+}

@@ -1,0 +1,18 @@
+
+[14/12/21 11:49:12]  Versao TInject: 3.3.0.0
+[14/12/21 11:49:12]  Versao  JS.ABR: 1.0.8.0
+[14/12/21 11:49:12]  Versao     CEF: 78.3.0
+[14/12/21 11:49:12]   
+[14/12/21 11:49:14]  Versao TInject: 3.3.0.0
+[14/12/21 11:49:14]  Versao  JS.ABR: 1.0.8.0
+[14/12/21 11:49:14]  Versao     CEF: 78.3.0
+[14/12/21 11:49:14]   
+[14/12/21 11:49:15 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'toDataURL' of undefined
+[14/12/21 11:49:16 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+[14/12/21 11:49:17 - CONSOLE IGNORADO]  
+[Report Only] Refused to compile or instantiate WebAssembly module because 'wasm-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: data: wss: blob: chrome-extension: 'unsafe-inline' 'unsafe-eval' 'self' https://ajax.googleapis.com https://api.search.live.net https://maps.googleapis.com https://www.youtube.com https://s.ytimg.com".
+
+[14/12/21 11:49:17 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.

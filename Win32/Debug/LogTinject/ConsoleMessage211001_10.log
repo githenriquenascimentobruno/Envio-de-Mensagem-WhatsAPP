@@ -1,0 +1,11 @@
+
+[01/10/21 10:54:08]  Versao TInject: 3.3.0.0
+[01/10/21 10:54:08]  Versao  JS.ABR: 1.0.6.0
+[01/10/21 10:54:08]  Versao     CEF: 78.3.0
+[01/10/21 10:54:08]   
+[01/10/21 10:56:09]  Versao TInject: 3.3.0.0
+[01/10/21 10:56:09]  Versao  JS.ABR: 1.0.6.0
+[01/10/21 10:56:09]  Versao     CEF: 78.3.0
+[01/10/21 10:56:09]   
+[01/10/21 10:56:09 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'toDataURL' of undefined

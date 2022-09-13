@@ -1,0 +1,30 @@
+unit u_Principal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+
+type
+  TfrmPrincipal = class(TForm)
+    MainMenu1: TMainMenu;
+    Principal1: TMenuItem;
+    Principal2: TMenuItem;
+    N1: TMenuItem;
+    N2: TMenuItem;
+    WhatsApp1: TMenuItem;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrincipal: TfrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+end.

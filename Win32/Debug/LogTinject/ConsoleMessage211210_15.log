@@ -1,0 +1,25 @@
+
+[10/12/21 15:29:55]  Versao TInject: 3.3.0.0
+[10/12/21 15:29:55]  Versao  JS.ABR: 1.0.8.0
+[10/12/21 15:29:55]  Versao     CEF: 78.3.0
+[10/12/21 15:29:55]   
+[10/12/21 15:30:00]  Versao TInject: 3.3.0.0
+[10/12/21 15:30:00]  Versao  JS.ABR: 1.0.8.0
+[10/12/21 15:30:00]  Versao     CEF: 78.3.0
+[10/12/21 15:30:00]   
+[10/12/21 15:30:01 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'toDataURL' of undefined
+[10/12/21 15:30:03 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+[10/12/21 15:30:04 - CONSOLE IGNORADO]  
+[Report Only] Refused to compile or instantiate WebAssembly module because 'wasm-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: data: wss: blob: chrome-extension: 'unsafe-inline' 'unsafe-eval' 'self' https://ajax.googleapis.com https://api.search.live.net https://maps.googleapis.com https://www.youtube.com https://s.ytimg.com".
+
+[10/12/21 15:30:07 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+
+[10/12/21 15:35:14 - CONSOLE]  
+{"name":"getMyNumber","result":"{\"result\":\"5517999772966@c.us\"}"}
+[10/12/21 15:35:14 - TResponseMyNumber]  
+{
+    "result": "5517999772966@c.us"
+}

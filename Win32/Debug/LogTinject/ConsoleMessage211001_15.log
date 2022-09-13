@@ -1,0 +1,5 @@
+
+[01/10/21 15:08:21 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_CONNECTION_TIMED_OUT
+[01/10/21 15:08:23 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.

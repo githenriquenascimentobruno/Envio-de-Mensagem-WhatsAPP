@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/26 09:31:13.000.506,=C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 09:32:39.000.320,C:\Desenvolvimento\LojaDasFraldas\u_Principal.pas=C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 09:32:39.000.320,C:\Desenvolvimento\LojaDasFraldas\u_Principal.dfm=C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/26 09:32:44.000.970,C:\Desenvolvimento\LojaDasFraldas\LojaDasFraldas.dproj=C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/26 09:37:13.000.545,=C:\Desenvolvimento\LojaDasFraldas\Unit2.pas</Transaction>
+    <Transaction>2021/08/26 09:37:33.000.221,C:\Desenvolvimento\LojaDasFraldas\u_WhatsApp.dfm=C:\Desenvolvimento\LojaDasFraldas\Unit2.dfm</Transaction>
+    <Transaction>2021/08/26 09:37:33.000.221,C:\Desenvolvimento\LojaDasFraldas\u_WhatsApp.pas=C:\Desenvolvimento\LojaDasFraldas\Unit2.pas</Transaction>
+    <Transaction>2021/09/11 14:20:00.000.052,=C:\Desenvolvimento\LojaDasFraldas\Unit1.pas</Transaction>
+    <Transaction>2021/09/11 14:20:36.000.881,C:\Desenvolvimento\LojaDasFraldas\u_ImportaCsv.pas=C:\Desenvolvimento\LojaDasFraldas\Unit1.pas</Transaction>
+    <Transaction>2021/09/11 14:20:36.000.881,C:\Desenvolvimento\LojaDasFraldas\u_ImportaCsv.dfm=C:\Desenvolvimento\LojaDasFraldas\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,702 @@
+
+[28/10/21 11:02:25]  Versao TInject: 3.3.0.0
+[28/10/21 11:02:25]  Versao  JS.ABR: 1.0.6.0
+[28/10/21 11:02:25]  Versao     CEF: 78.3.0
+[28/10/21 11:02:25]   
+[28/10/21 11:02:27]  Versao TInject: 3.3.0.0
+[28/10/21 11:02:27]  Versao  JS.ABR: 1.0.6.0
+[28/10/21 11:02:27]  Versao     CEF: 78.3.0
+[28/10/21 11:02:27]   
+[28/10/21 11:02:28 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'toDataURL' of undefined
+[28/10/21 11:02:29 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+[28/10/21 11:02:30 - CONSOLE IGNORADO]  
+[Report Only] Refused to compile or instantiate WebAssembly module because 'wasm-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: data: wss: blob: chrome-extension: 'unsafe-inline' 'unsafe-eval' 'self' https://ajax.googleapis.com https://api.search.live.net https://maps.googleapis.com https://www.youtube.com https://s.ytimg.com".
+
+[28/10/21 11:02:30 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+[28/10/21 11:04:24 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+[28/10/21 11:04:25 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'modelClass' of undefined
+[28/10/21 11:04:25 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+
+[28/10/21 11:04:25 - CONSOLE]  
+{"name":"getMyNumber","result":"{\"result\":null}"}
+[28/10/21 11:04:25 - TResponseMyNumber]  
+{
+    "result": null
+}
+[28/10/21 11:04:25 - CONSOLE IGNORADO]  
+[Report Only] Refused to compile or instantiate WebAssembly module because 'wasm-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: data: wss: blob: chrome-extension: 'unsafe-inline' 'unsafe-eval' 'self' https://ajax.googleapis.com https://api.search.live.net https://maps.googleapis.com https://www.youtube.com https://s.ytimg.com".
+
+[28/10/21 11:04:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:04:30 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+[28/10/21 11:04:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:04:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:04:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:05:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:05:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:05:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:05:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:05:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:05:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:06:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:06:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:06:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:06:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:06:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:06:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:07:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:07:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:07:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:07:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:07:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:07:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:08:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:08:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:08:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:08:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:08:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:08:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:09:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:09:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:09:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:09:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:09:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:09:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:10:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:10:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:10:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:10:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:10:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:10:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:11:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:11:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:11:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:11:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:11:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:11:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:12:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:12:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:12:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:12:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:12:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:12:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:13:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:13:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:13:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:13:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:13:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:13:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:14:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:14:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:14:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:14:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:14:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:14:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:15:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:15:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:15:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:15:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:15:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:15:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:16:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:16:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:16:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:16:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:16:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:16:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:17:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:17:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:17:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:17:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:17:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:17:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:18:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:18:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:18:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:18:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:18:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:18:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:19:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:19:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:19:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:19:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:19:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:19:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:20:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:20:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:20:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:20:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:20:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:20:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:21:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:21:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:21:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:21:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:21:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:21:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:22:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:22:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:22:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:22:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:22:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:22:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:23:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:23:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:23:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:23:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:23:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:23:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:24:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:24:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:24:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:24:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:24:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:24:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:25:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:25:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:25:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:25:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:25:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:25:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:26:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:26:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:26:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:26:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:26:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:26:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:27:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:27:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:27:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:27:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:27:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:27:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:28:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:28:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:28:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:28:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:28:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:28:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:29:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:29:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:29:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:29:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:29:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:29:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:30:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:30:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:30:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:30:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:30:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:30:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:31:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:31:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:31:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:31:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:31:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:31:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:32:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:32:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:32:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:32:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:32:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:32:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:33:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:33:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:33:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:33:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:33:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:33:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:34:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:34:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:34:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:34:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:34:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:34:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:35:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:35:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:35:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:35:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:35:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:35:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:36:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:36:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:36:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:36:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:36:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:36:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:37:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:37:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:37:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:37:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:37:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:37:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:38:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:38:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:38:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:38:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:38:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:38:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:39:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:39:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:39:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:39:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:39:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:39:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:40:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:40:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:40:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:40:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:40:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:40:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:41:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:41:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:41:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:41:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:41:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:41:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:42:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:42:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:42:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:42:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:42:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:42:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:43:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:43:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:43:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:43:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:43:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:43:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:44:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:44:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:44:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:44:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:44:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:45:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:45:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:45:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:45:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:45:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:45:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:46:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:46:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:46:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:46:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:46:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:46:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:47:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:47:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:47:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:47:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:47:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:47:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:48:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:48:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:48:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:48:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:48:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:48:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:49:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:49:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:49:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:49:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:49:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:49:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:50:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:50:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:50:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:50:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:50:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:50:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:51:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:51:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:51:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:51:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:51:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:51:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:52:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:52:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:52:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:52:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:52:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:52:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:53:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:53:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:53:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:53:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:53:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:53:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:54:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:54:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:54:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:54:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:54:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:54:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:55:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:55:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:55:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:55:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:55:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:55:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:56:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:56:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:56:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:56:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:56:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:56:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:57:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:57:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:57:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:57:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:57:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:57:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:58:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:58:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:58:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:58:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:58:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:58:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:59:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:59:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:59:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:59:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:59:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[28/10/21 11:59:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined

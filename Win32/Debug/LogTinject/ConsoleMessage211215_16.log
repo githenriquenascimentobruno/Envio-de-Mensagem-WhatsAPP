@@ -1,0 +1,1094 @@
+
+[15/12/21 16:27:27]  Versao TInject: 3.3.0.0
+[15/12/21 16:27:27]  Versao  JS.ABR: 1.0.8.0
+[15/12/21 16:27:27]  Versao     CEF: 78.3.0
+[15/12/21 16:27:27]   
+[15/12/21 16:27:28]  Versao TInject: 3.3.0.0
+[15/12/21 16:27:28]  Versao  JS.ABR: 1.0.8.0
+[15/12/21 16:27:28]  Versao     CEF: 78.3.0
+[15/12/21 16:27:28]   
+[15/12/21 16:27:29 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'toDataURL' of undefined
+[15/12/21 16:27:29 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+[15/12/21 16:27:30 - CONSOLE IGNORADO]  
+[Report Only] Refused to compile or instantiate WebAssembly module because 'wasm-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src https: data: wss: blob: chrome-extension: 'unsafe-inline' 'unsafe-eval' 'self' https://ajax.googleapis.com https://api.search.live.net https://maps.googleapis.com https://www.youtube.com https://s.ytimg.com".
+
+[15/12/21 16:27:31 - CONSOLE IGNORADO]  
+The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.
+
+[15/12/21 16:28:30 - CONSOLE]  
+{"name":"getMyNumber","result":"{\"result\":\"5517999772966@c.us\"}"}
+[15/12/21 16:28:30 - TResponseMyNumber]  
+{
+    "result": "5517999772966@c.us"
+}
+
+[15/12/21 16:33:39 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"ACF287F4858DEFE257E1E84B9135B95F\",\"_serialized\":\"true_5517999750887@c.us_ACF287F4858DEFE257E1E84B9135B95F\"},\"t\":1639596816,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999750887@c.us_ACF287F4858DEFE257E1E84B9135B95F\",\"body\":\"Boa tarde\",\"type\":\"chat\",\"t\":1639596816,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999750887@c.us\",\"self\":\"in\",\"ack\":-1,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750887@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D\",\"msgs\":null},\"timestamp\":1639596816,\"content\":\"Boa tarde\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"ACF287F4858DEFE257E1E84B9135B95F\",\"_serialized\":\"true_5517999750887@c.us_ACF287F4858DEFE257E1E84B9135B95F\"},\"t\":1639596816,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[15/12/21 16:33:39 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999750887@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999750887@c.us",
+                "id": "ACF287F4858DEFE257E1E84B9135B95F",
+                "_serialized": "true_5517999750887@c.us_ACF287F4858DEFE257E1E84B9135B95F"
+            },
+            "t": 1639596816,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99975-0887",
+            "contact": {
+                "id": "5517999750887@c.us",
+                "pushname": "Michele",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99975-0887",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999750887@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999750887@c.us_ACF287F4858DEFE257E1E84B9135B95F",
+                    "body": "Boa tarde",
+                    "type": "chat",
+                    "t": 1639596816,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999750887@c.us",
+                    "self": "in",
+                    "ack": -1,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750887@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1639596816,
+                    "content": "Boa tarde",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750887@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999750887@c.us",
+                            "id": "ACF287F4858DEFE257E1E84B9135B95F",
+                            "_serialized": "true_5517999750887@c.us_ACF287F4858DEFE257E1E84B9135B95F"
+                        },
+                        "t": 1639596816,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0887",
+                        "contact": {
+                            "id": "5517999750887@c.us",
+                            "pushname": "Michele",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0887",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750887@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[15/12/21 16:33:57 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"DED9FB95D09934328E191A4CBF1C9ED9\",\"_serialized\":\"true_5517999750887@c.us_DED9FB95D09934328E191A4CBF1C9ED9\"},\"t\":1639596835,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999750887@c.us_DED9FB95D09934328E191A4CBF1C9ED9\",\"body\":\"Tamanho 2 esgotadas\",\"type\":\"chat\",\"t\":1639596835,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999750887@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1639596836,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750887@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D\",\"msgs\":null},\"timestamp\":1639596835,\"content\":\"Tamanho 2 esgotadas\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"DED9FB95D09934328E191A4CBF1C9ED9\",\"_serialized\":\"true_5517999750887@c.us_DED9FB95D09934328E191A4CBF1C9ED9\"},\"t\":1639596835,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[15/12/21 16:33:57 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999750887@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999750887@c.us",
+                "id": "DED9FB95D09934328E191A4CBF1C9ED9",
+                "_serialized": "true_5517999750887@c.us_DED9FB95D09934328E191A4CBF1C9ED9"
+            },
+            "t": 1639596835,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99975-0887",
+            "contact": {
+                "id": "5517999750887@c.us",
+                "pushname": "Michele",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99975-0887",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999750887@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999750887@c.us_DED9FB95D09934328E191A4CBF1C9ED9",
+                    "body": "Tamanho 2 esgotadas",
+                    "type": "chat",
+                    "t": 1639596835,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999750887@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1639596836,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750887@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1639596835,
+                    "content": "Tamanho 2 esgotadas",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750887@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999750887@c.us",
+                            "id": "DED9FB95D09934328E191A4CBF1C9ED9",
+                            "_serialized": "true_5517999750887@c.us_DED9FB95D09934328E191A4CBF1C9ED9"
+                        },
+                        "t": 1639596835,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0887",
+                        "contact": {
+                            "id": "5517999750887@c.us",
+                            "pushname": "Michele",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0887",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750887@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[15/12/21 16:34:30 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"E69AF59921AB79094D47C7607A8C48B0\",\"_serialized\":\"true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0\"},\"t\":1639596863,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0\",\"body\":\"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\",\"type\":\"image\",\"t\":1639596863,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999750887@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"caption\":\"Temos tamanho 1\",\"interactiveAnnotations\":[],\"directPath\":\"\",\"mimetype\":\"image/jpeg\",\"size\":0,\"mediaKeyTimestamp\":1639596868,\"isViewOnce\":false,\"width\":0,\"height\":0,\"staticUrl\":\"\",\"scanLengths\":[],\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750887@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D\",\"msgs\":null},\"timestamp\":1639596863,\"content\":\"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\",\"isGroupMsg\":false,\"isMedia\":true,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"E69AF59921AB79094D47C7607A8C48B0\",\"_serialized\":\"true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0\"},\"t\":1639596863,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{\"type\":\"image\",\"directPath\":\"\",\"mediaKeyTimestamp\":1639596868,\"mediaStage\":\"REMOTE_UPLOADING\",\"size\":0,\"mimetype\":\"image/jpeg\",\"fullHeight\":0,\"fullWidth\":0,\"animationDuration\":0,\"animatedAsNewMsg\":false,\"isViewOnce\":false,\"staticUrl\":\"\",\"preview\":{\"_retainCount\":1,\"_inAutoreleasePool\":false,\"released\":false,\"_b64\":\"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABkAEsDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDxTymQKY8dRz360iwSlmbjHuAfWplViGBx1BGWPv8AWnRxFkJwoz3PQcE+tZl3KpgIXouSvf6U6OA5wRjjOAucVM6SIgAKONvVWzjj61E8jq3Q/d4yfpQMY0QOQOeTg4GTz6UwxMVLELgHoQB69KsSfaBGCSWXJyd2e/pUBOQVyFyecDg9aQDERQeGKMSOrYxTmjwTnPPc0ohdgwyCOMHPt9aRFIdULEeoLZ/SgBqgrGeScejf0qIxZOSzZ+hqzJF8g2GPJ7Dg1VeRkcqVBI4oQHpOiaVcX8MUdhpsc7hF3tsBAJGeW6Dv1rZj8Eavs4s7JN3VDs/oMfrW7dX11pfh/wALx6W4g8yzkd1AGGK2xfJ4P8QzWYviLVpJImS7dd66ZwVU4Mud/buK0hgedcze5wule7bOc1mMeHZ4rfV7K3ieZSyxxqHJUcEkLnA+uM4Poar2Ws6XJdeW2mQC1AP7/wArnOM4Kbc9eK71dW/tey0jV9Q03SrqG6vRYi0lg3T2+5iv+sYkEjaGK7Bx9M1qeKfBGl3Ft9p0+0s7W6iHCiNUjk9iOmff8/bKphHTu9xqmkurOI019C1GV4bS2gd1XcQbUrxnHUqO9Xf7C01poE+x2UYfOWMIwPyFSWVi0Vukun6Qwmk/dnyYMEexwOnHfim30Gs294tvNbLHP5fmKjTJ93PXOcDmuN0KmI/d019+g8PiI4erzyTsc94x0mytdKma2gtw6FDujTb1K57dMEjn0rhfIjUs3ylxkAgk/wA673xbJNbwXllcpGz+Whyrbtp4ODz7Vw0gmwd+wZHT5uK1oUZ0OaFTe/6I9CeIp4j3qfQY0QA+VlXHH38Ui2bMoJKZPP8ArP8A69LLE7fPtLZIIIDf4U7y2/hgfGPQitzM+i9Ls4L/AMOaRFJbCV4oI2RmjjfyyEH98e46enUUqaHaLAEGjA4XaQYLXlQ24L0xweQOBmrnhHcvhnTg6DcLaIkAZ52jBx/npWspIlQRBiCcnJJ7479uc/hXSpNKxx9SKy06CO7kv2hVbqVQHdo4w4HpuUZI+pPSjVNRjsXaOaK6ibAwWgYA/QkVL/aLW+osvlsIIgQ7HglvQfQ4B/GpNR1dr9SbmNTGsbFVzyMg4PHvg/hT6G8KLer2KNldG4bzF8rymORtc5zyOmBXI/EW3tWuba4muvLlKeWkXkq+7BJySxwBz/8ArrcD+U0qhcrnKyYKhx6j/Paud8SWD6ndQSCHesa4+/jHP1FT7WdPWG5tDDUp1VCv8Jn6a1o3g/xFAInZ1sHkZ5MYIUOVwoHGCc/U15YssbKFIUjqOMV6vb6U+l+F/Ecswj82axlUIhzsHlt3xzz/ACHJryHLpCjC3cgDlsgA/pWM5Sn709yqkKNObjQ+FDmaIN/q1Pf72aQSRsM+UnP0qF9+SwgPPIB5H8qFkmx/x7p/3wv+FSSfTugRvFotpD5aSBIkADcEYUfn+lT3fnSXiWsA5wHlMYySDu4HpwGJ9BUmlr5dtGv90AZ/CoZ5fsWqNcMCY5VwT6fKVP8AMfnXSkc9OKcifxJPHLc3rBdoZ0KIPuquOmPwFY8MqNbXW5NzHaq9+dy/0zUmrS72mKnOcYNUYy4s7nKtgkEce4/wquh7FKC5UNXU1BEco3FQduewzn+Z/Wl8wbfMGGXPQ9aw7uZYpFBUnJ9Kzda1o6RbIVXzJpThAxwOOpP6fnWEtzDFU4ptm54ifd4c1nZx/oc3B/3Grw61d9mAMk9t9el6drl1rCajZXMMUf8AojnCgg9hjk+9eSpMyr8iDaOc7iMVLOOBeZ5APm3j65x+opPtE44En6//AFqrrefu3Uqpzg8OOKY53Nnc3PoTSsXc+gvA3iDZDHpmoNhwcW8p6OOyn39Py9M9lMqTRlXGR/KvJQkc9mN2Mnmt7QfE1zbstrqiySxAYS4VSzD03AdfqPx9amhWa92Z5tOdtGbt4ZNPcpKFkQghWxjIIx+lDauE06S38tTuHXNXriW0u4jHLJE4Po4yPpWFcaW+WEM6PH2BHNddz1aeJjKNpvUryCGdVLKF2gnJ53H+nasPxFos2pfZmtZ4Y2i3ZZye+PQe1WdUuG0/MYhnnk7LFExB4J5JGO3rXK6hNq2pBopAba3xkxIpBI/2mxz1+lc1Soosyr14ybaKTTHSpJ4rG6W5u5k8t5ovuoueQD3JwOe316cFZOExiOMnHXJ5r0W00tEABbjpgDH69687hC7E2BCxHO7isqc3Jtsxoy5myV5CwHQeuCaCzkkhwBn3/wAKRmbYQETv0fAqNnlDH92v/fzFam57Fp13DHaoJYBNxx90gcdeVNWH1FGjK/ZyVBDBT5WOAcA/u/c/nXkSTThQPPlRRgAFmwKVbiVyP38h6etSoyWzOT6s+56w2s3HCx6eEiYgOuYsd+wTkc1WN3LsG20iD7twyE+XrgZ29OleYtKQDl23dCGqCSKNsElSTzgcd6LS7j+rvuemm6u/O5tYSihlX7pBByOmB2qEW7hTtZRkYIAx74z9a85VIQj7kz9GB559qiJV2KsqrxgALScJdx/V33PTJJhDGplWONIwSX6ccdST0GP515P5yiVxGFKbjtPqM8VbAi24DOre/So8xqOU+b/dH+NOEXHVmlOlydSIzttwEPI9DTDIf7jfl/8AXp+ZDn5Xx6Kwp42Y+YNn3I/wqzUsIAu3AHXvzV6EYiAzx9BRRTGZxkdd3zE896V5HwPmPbvRRQCCMlt24k596LkZkZckKP4R07UUUANCDAGTyeaH+W4eIfdUfifxoooAaq9eT09asJGpQEiiigEf/9k=\",\"_url\":\"data:image/jpeg;base64,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\",\"_mimetype\":\"image/jpeg\"},\"_swStreamingSupported\":false,\"_listeningToSwSupport\":false,\"isVcardOverMmsDocument\":false}}]}]}"}
+[15/12/21 16:34:30 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999750887@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999750887@c.us",
+                "id": "E69AF59921AB79094D47C7607A8C48B0",
+                "_serialized": "true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0"
+            },
+            "t": 1639596863,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99975-0887",
+            "contact": {
+                "id": "5517999750887@c.us",
+                "pushname": "Michele",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99975-0887",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999750887@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0",
+                    "body": "\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj\/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj\/wAARCABkAEsDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwDxTymQKY8dRz360iwSlmbjHuAfWplViGBx1BGWPv8AWnRxFkJwoz3PQcE+tZl3KpgIXouSvf6U6OA5wRjjOAucVM6SIgAKONvVWzjj61E8jq3Q\/d4yfpQMY0QOQOeTg4GTz6UwxMVLELgHoQB69KsSfaBGCSWXJyd2e\/pUBOQVyFyecDg9aQDERQeGKMSOrYxTmjwTnPPc0ohdgwyCOMHPt9aRFIdULEeoLZ\/SgBqgrGeScejf0qIxZOSzZ+hqzJF8g2GPJ7Dg1VeRkcqVBI4oQHpOiaVcX8MUdhpsc7hF3tsBAJGeW6Dv1rZj8Eavs4s7JN3VDs\/oMfrW7dX11pfh\/wALx6W4g8yzkd1AGGK2xfJ4P8QzWYviLVpJImS7dd66ZwVU4Mud\/buK0hgedcze5wule7bOc1mMeHZ4rfV7K3ieZSyxxqHJUcEkLnA+uM4Poar2Ws6XJdeW2mQC1AP7\/wArnOM4Kbc9eK71dW\/tey0jV9Q03SrqG6vRYi0lg3T2+5iv+sYkEjaGK7Bx9M1qeKfBGl3Ft9p0+0s7W6iHCiNUjk9iOmff8\/bKphHTu9xqmkurOI019C1GV4bS2gd1XcQbUrxnHUqO9Xf7C01poE+x2UYfOWMIwPyFSWVi0Vukun6Qwmk\/dnyYMEexwOnHfim30Gs294tvNbLHP5fmKjTJ93PXOcDmuN0KmI\/d019+g8PiI4erzyTsc94x0mytdKma2gtw6FDujTb1K57dMEjn0rhfIjUs3ylxkAgk\/wA673xbJNbwXllcpGz+Whyrbtp4ODz7Vw0gmwd+wZHT5uK1oUZ0OaFTe\/6I9CeIp4j3qfQY0QA+VlXHH38Ui2bMoJKZPP8ArP8A69LLE7fPtLZIIIDf4U7y2\/hgfGPQitzM+i9Ls4L\/AMOaRFJbCV4oI2RmjjfyyEH98e46enUUqaHaLAEGjA4XaQYLXlQ24L0xweQOBmrnhHcvhnTg6DcLaIkAZ52jBx\/npWspIlQRBiCcnJJ7479uc\/hXSpNKxx9SKy06CO7kv2hVbqVQHdo4w4HpuUZI+pPSjVNRjsXaOaK6ibAwWgYA\/QkVL\/aLW+osvlsIIgQ7HglvQfQ4B\/GpNR1dr9SbmNTGsbFVzyMg4PHvg\/hT6G8KLer2KNldG4bzF8rymORtc5zyOmBXI\/EW3tWuba4muvLlKeWkXkq+7BJySxwBz\/8ArrcD+U0qhcrnKyYKhx6j\/Paud8SWD6ndQSCHesa4+\/jHP1FT7WdPWG5tDDUp1VCv8Jn6a1o3g\/xFAInZ1sHkZ5MYIUOVwoHGCc\/U15YssbKFIUjqOMV6vb6U+l+F\/Ecswj82axlUIhzsHlt3xzz\/ACHJryHLpCjC3cgDlsgA\/pWM5Sn709yqkKNObjQ+FDmaIN\/q1Pf72aQSRsM+UnP0qF9+SwgPPIB5H8qFkmx\/x7p\/3wv+FSSfTugRvFotpD5aSBIkADcEYUfn+lT3fnSXiWsA5wHlMYySDu4HpwGJ9BUmlr5dtGv90AZ\/CoZ5fsWqNcMCY5VwT6fKVP8AMfnXSkc9OKcifxJPHLc3rBdoZ0KIPuquOmPwFY8MqNbXW5NzHaq9+dy\/0zUmrS72mKnOcYNUYy4s7nKtgkEce4\/wquh7FKC5UNXU1BEco3FQduewzn+Z\/Wl8wbfMGGXPQ9aw7uZYpFBUnJ9Kzda1o6RbIVXzJpThAxwOOpP6fnWEtzDFU4ptm54ifd4c1nZx\/oc3B\/3Grw61d9mAMk9t9el6drl1rCajZXMMUf8AojnCgg9hjk+9eSpMyr8iDaOc7iMVLOOBeZ5APm3j65x+opPtE44En6\/\/AFqrrefu3Uqpzg8OOKY53Nnc3PoTSsXc+gvA3iDZDHpmoNhwcW8p6OOyn39Py9M9lMqTRlXGR\/KvJQkc9mN2Mnmt7QfE1zbstrqiySxAYS4VSzD03AdfqPx9amhWa92Z5tOdtGbt4ZNPcpKFkQghWxjIIx+lDauE06S38tTuHXNXriW0u4jHLJE4Po4yPpWFcaW+WEM6PH2BHNddz1aeJjKNpvUryCGdVLKF2gnJ53H+nasPxFos2pfZmtZ4Y2i3ZZye+PQe1WdUuG0\/MYhnnk7LFExB4J5JGO3rXK6hNq2pBopAba3xkxIpBI\/2mxz1+lc1Soosyr14ybaKTTHSpJ4rG6W5u5k8t5ovuoueQD3JwOe316cFZOExiOMnHXJ5r0W00tEABbjpgDH69687hC7E2BCxHO7isqc3Jtsxoy5myV5CwHQeuCaCzkkhwBn3\/wAKRmbYQETv0fAqNnlDH92v\/fzFam57Fp13DHaoJYBNxx90gcdeVNWH1FGjK\/ZyVBDBT5WOAcA\/u\/c\/nXkSTThQPPlRRgAFmwKVbiVyP38h6etSoyWzOT6s+56w2s3HCx6eEiYgOuYsd+wTkc1WN3LsG20iD7twyE+XrgZ29OleYtKQDl23dCGqCSKNsElSTzgcd6LS7j+rvuemm6u\/O5tYSihlX7pBByOmB2qEW7hTtZRkYIAx74z9a85VIQj7kz9GB559qiJV2KsqrxgALScJdx\/V33PTJJhDGplWONIwSX6ccdST0GP515P5yiVxGFKbjtPqM8VbAi24DOre\/So8xqOU+b\/dH+NOEXHVmlOlydSIzttwEPI9DTDIf7jfl\/8AXp+ZDn5Xx6Kwp42Y+YNn3I\/wqzUsIAu3AHXvzV6EYiAzx9BRRTGZxkdd3zE896V5HwPmPbvRRQCCMlt24k596LkZkZckKP4R07UUUANCDAGTyeaH+W4eIfdUfifxoooAaq9eT09asJGpQEiiigEf\/9k=",
+                    "type": "image",
+                    "t": 1639596863,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999750887@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "caption": "Temos tamanho 1",
+                    "interactiveAnnotations": [
+                    ],
+                    "directPath": "",
+                    "mimetype": "image\/jpeg",
+                    "size": 0,
+                    "mediaKeyTimestamp": 1639596868,
+                    "isViewOnce": false,
+                    "width": 0,
+                    "height": 0,
+                    "staticUrl": "",
+                    "scanLengths": [
+                    ],
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750887@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1639596863,
+                    "content": "\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj\/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj\/wAARCABkAEsDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwDxTymQKY8dRz360iwSlmbjHuAfWplViGBx1BGWPv8AWnRxFkJwoz3PQcE+tZl3KpgIXouSvf6U6OA5wRjjOAucVM6SIgAKONvVWzjj61E8jq3Q\/d4yfpQMY0QOQOeTg4GTz6UwxMVLELgHoQB69KsSfaBGCSWXJyd2e\/pUBOQVyFyecDg9aQDERQeGKMSOrYxTmjwTnPPc0ohdgwyCOMHPt9aRFIdULEeoLZ\/SgBqgrGeScejf0qIxZOSzZ+hqzJF8g2GPJ7Dg1VeRkcqVBI4oQHpOiaVcX8MUdhpsc7hF3tsBAJGeW6Dv1rZj8Eavs4s7JN3VDs\/oMfrW7dX11pfh\/wALx6W4g8yzkd1AGGK2xfJ4P8QzWYviLVpJImS7dd66ZwVU4Mud\/buK0hgedcze5wule7bOc1mMeHZ4rfV7K3ieZSyxxqHJUcEkLnA+uM4Poar2Ws6XJdeW2mQC1AP7\/wArnOM4Kbc9eK71dW\/tey0jV9Q03SrqG6vRYi0lg3T2+5iv+sYkEjaGK7Bx9M1qeKfBGl3Ft9p0+0s7W6iHCiNUjk9iOmff8\/bKphHTu9xqmkurOI019C1GV4bS2gd1XcQbUrxnHUqO9Xf7C01poE+x2UYfOWMIwPyFSWVi0Vukun6Qwmk\/dnyYMEexwOnHfim30Gs294tvNbLHP5fmKjTJ93PXOcDmuN0KmI\/d019+g8PiI4erzyTsc94x0mytdKma2gtw6FDujTb1K57dMEjn0rhfIjUs3ylxkAgk\/wA673xbJNbwXllcpGz+Whyrbtp4ODz7Vw0gmwd+wZHT5uK1oUZ0OaFTe\/6I9CeIp4j3qfQY0QA+VlXHH38Ui2bMoJKZPP8ArP8A69LLE7fPtLZIIIDf4U7y2\/hgfGPQitzM+i9Ls4L\/AMOaRFJbCV4oI2RmjjfyyEH98e46enUUqaHaLAEGjA4XaQYLXlQ24L0xweQOBmrnhHcvhnTg6DcLaIkAZ52jBx\/npWspIlQRBiCcnJJ7479uc\/hXSpNKxx9SKy06CO7kv2hVbqVQHdo4w4HpuUZI+pPSjVNRjsXaOaK6ibAwWgYA\/QkVL\/aLW+osvlsIIgQ7HglvQfQ4B\/GpNR1dr9SbmNTGsbFVzyMg4PHvg\/hT6G8KLer2KNldG4bzF8rymORtc5zyOmBXI\/EW3tWuba4muvLlKeWkXkq+7BJySxwBz\/8ArrcD+U0qhcrnKyYKhx6j\/Paud8SWD6ndQSCHesa4+\/jHP1FT7WdPWG5tDDUp1VCv8Jn6a1o3g\/xFAInZ1sHkZ5MYIUOVwoHGCc\/U15YssbKFIUjqOMV6vb6U+l+F\/Ecswj82axlUIhzsHlt3xzz\/ACHJryHLpCjC3cgDlsgA\/pWM5Sn709yqkKNObjQ+FDmaIN\/q1Pf72aQSRsM+UnP0qF9+SwgPPIB5H8qFkmx\/x7p\/3wv+FSSfTugRvFotpD5aSBIkADcEYUfn+lT3fnSXiWsA5wHlMYySDu4HpwGJ9BUmlr5dtGv90AZ\/CoZ5fsWqNcMCY5VwT6fKVP8AMfnXSkc9OKcifxJPHLc3rBdoZ0KIPuquOmPwFY8MqNbXW5NzHaq9+dy\/0zUmrS72mKnOcYNUYy4s7nKtgkEce4\/wquh7FKC5UNXU1BEco3FQduewzn+Z\/Wl8wbfMGGXPQ9aw7uZYpFBUnJ9Kzda1o6RbIVXzJpThAxwOOpP6fnWEtzDFU4ptm54ifd4c1nZx\/oc3B\/3Grw61d9mAMk9t9el6drl1rCajZXMMUf8AojnCgg9hjk+9eSpMyr8iDaOc7iMVLOOBeZ5APm3j65x+opPtE44En6\/\/AFqrrefu3Uqpzg8OOKY53Nnc3PoTSsXc+gvA3iDZDHpmoNhwcW8p6OOyn39Py9M9lMqTRlXGR\/KvJQkc9mN2Mnmt7QfE1zbstrqiySxAYS4VSzD03AdfqPx9amhWa92Z5tOdtGbt4ZNPcpKFkQghWxjIIx+lDauE06S38tTuHXNXriW0u4jHLJE4Po4yPpWFcaW+WEM6PH2BHNddz1aeJjKNpvUryCGdVLKF2gnJ53H+nasPxFos2pfZmtZ4Y2i3ZZye+PQe1WdUuG0\/MYhnnk7LFExB4J5JGO3rXK6hNq2pBopAba3xkxIpBI\/2mxz1+lc1Soosyr14ybaKTTHSpJ4rG6W5u5k8t5ovuoueQD3JwOe316cFZOExiOMnHXJ5r0W00tEABbjpgDH69687hC7E2BCxHO7isqc3Jtsxoy5myV5CwHQeuCaCzkkhwBn3\/wAKRmbYQETv0fAqNnlDH92v\/fzFam57Fp13DHaoJYBNxx90gcdeVNWH1FGjK\/ZyVBDBT5WOAcA\/u\/c\/nXkSTThQPPlRRgAFmwKVbiVyP38h6etSoyWzOT6s+56w2s3HCx6eEiYgOuYsd+wTkc1WN3LsG20iD7twyE+XrgZ29OleYtKQDl23dCGqCSKNsElSTzgcd6LS7j+rvuemm6u\/O5tYSihlX7pBByOmB2qEW7hTtZRkYIAx74z9a85VIQj7kz9GB559qiJV2KsqrxgALScJdx\/V33PTJJhDGplWONIwSX6ccdST0GP515P5yiVxGFKbjtPqM8VbAi24DOre\/So8xqOU+b\/dH+NOEXHVmlOlydSIzttwEPI9DTDIf7jfl\/8AXp+ZDn5Xx6Kwp42Y+YNn3I\/wqzUsIAu3AHXvzV6EYiAzx9BRRTGZxkdd3zE896V5HwPmPbvRRQCCMlt24k596LkZkZckKP4R07UUUANCDAGTyeaH+W4eIfdUfifxoooAaq9eT09asJGpQEiiigEf\/9k=",
+                    "isGroupMsg": false,
+                    "isMedia": true,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750887@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999750887@c.us",
+                            "id": "E69AF59921AB79094D47C7607A8C48B0",
+                            "_serialized": "true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0"
+                        },
+                        "t": 1639596863,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0887",
+                        "contact": {
+                            "id": "5517999750887@c.us",
+                            "pushname": "Michele",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0887",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750887@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                        "type": "image",
+                        "directPath": "",
+                        "mediaKeyTimestamp": 1639596868,
+                        "mediaStage": "REMOTE_UPLOADING",
+                        "size": 0,
+                        "mimetype": "image\/jpeg",
+                        "fullHeight": 0,
+                        "fullWidth": 0,
+                        "animationDuration": 0,
+                        "animatedAsNewMsg": false,
+                        "isViewOnce": false,
+                        "staticUrl": "",
+                        "preview": {
+                            "_retainCount": 1,
+                            "_inAutoreleasePool": false,
+                            "released": false,
+                            "_b64": "\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj\/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj\/wAARCABkAEsDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwDxTymQKY8dRz360iwSlmbjHuAfWplViGBx1BGWPv8AWnRxFkJwoz3PQcE+tZl3KpgIXouSvf6U6OA5wRjjOAucVM6SIgAKONvVWzjj61E8jq3Q\/d4yfpQMY0QOQOeTg4GTz6UwxMVLELgHoQB69KsSfaBGCSWXJyd2e\/pUBOQVyFyecDg9aQDERQeGKMSOrYxTmjwTnPPc0ohdgwyCOMHPt9aRFIdULEeoLZ\/SgBqgrGeScejf0qIxZOSzZ+hqzJF8g2GPJ7Dg1VeRkcqVBI4oQHpOiaVcX8MUdhpsc7hF3tsBAJGeW6Dv1rZj8Eavs4s7JN3VDs\/oMfrW7dX11pfh\/wALx6W4g8yzkd1AGGK2xfJ4P8QzWYviLVpJImS7dd66ZwVU4Mud\/buK0hgedcze5wule7bOc1mMeHZ4rfV7K3ieZSyxxqHJUcEkLnA+uM4Poar2Ws6XJdeW2mQC1AP7\/wArnOM4Kbc9eK71dW\/tey0jV9Q03SrqG6vRYi0lg3T2+5iv+sYkEjaGK7Bx9M1qeKfBGl3Ft9p0+0s7W6iHCiNUjk9iOmff8\/bKphHTu9xqmkurOI019C1GV4bS2gd1XcQbUrxnHUqO9Xf7C01poE+x2UYfOWMIwPyFSWVi0Vukun6Qwmk\/dnyYMEexwOnHfim30Gs294tvNbLHP5fmKjTJ93PXOcDmuN0KmI\/d019+g8PiI4erzyTsc94x0mytdKma2gtw6FDujTb1K57dMEjn0rhfIjUs3ylxkAgk\/wA673xbJNbwXllcpGz+Whyrbtp4ODz7Vw0gmwd+wZHT5uK1oUZ0OaFTe\/6I9CeIp4j3qfQY0QA+VlXHH38Ui2bMoJKZPP8ArP8A69LLE7fPtLZIIIDf4U7y2\/hgfGPQitzM+i9Ls4L\/AMOaRFJbCV4oI2RmjjfyyEH98e46enUUqaHaLAEGjA4XaQYLXlQ24L0xweQOBmrnhHcvhnTg6DcLaIkAZ52jBx\/npWspIlQRBiCcnJJ7479uc\/hXSpNKxx9SKy06CO7kv2hVbqVQHdo4w4HpuUZI+pPSjVNRjsXaOaK6ibAwWgYA\/QkVL\/aLW+osvlsIIgQ7HglvQfQ4B\/GpNR1dr9SbmNTGsbFVzyMg4PHvg\/hT6G8KLer2KNldG4bzF8rymORtc5zyOmBXI\/EW3tWuba4muvLlKeWkXkq+7BJySxwBz\/8ArrcD+U0qhcrnKyYKhx6j\/Paud8SWD6ndQSCHesa4+\/jHP1FT7WdPWG5tDDUp1VCv8Jn6a1o3g\/xFAInZ1sHkZ5MYIUOVwoHGCc\/U15YssbKFIUjqOMV6vb6U+l+F\/Ecswj82axlUIhzsHlt3xzz\/ACHJryHLpCjC3cgDlsgA\/pWM5Sn709yqkKNObjQ+FDmaIN\/q1Pf72aQSRsM+UnP0qF9+SwgPPIB5H8qFkmx\/x7p\/3wv+FSSfTugRvFotpD5aSBIkADcEYUfn+lT3fnSXiWsA5wHlMYySDu4HpwGJ9BUmlr5dtGv90AZ\/CoZ5fsWqNcMCY5VwT6fKVP8AMfnXSkc9OKcifxJPHLc3rBdoZ0KIPuquOmPwFY8MqNbXW5NzHaq9+dy\/0zUmrS72mKnOcYNUYy4s7nKtgkEce4\/wquh7FKC5UNXU1BEco3FQduewzn+Z\/Wl8wbfMGGXPQ9aw7uZYpFBUnJ9Kzda1o6RbIVXzJpThAxwOOpP6fnWEtzDFU4ptm54ifd4c1nZx\/oc3B\/3Grw61d9mAMk9t9el6drl1rCajZXMMUf8AojnCgg9hjk+9eSpMyr8iDaOc7iMVLOOBeZ5APm3j65x+opPtE44En6\/\/AFqrrefu3Uqpzg8OOKY53Nnc3PoTSsXc+gvA3iDZDHpmoNhwcW8p6OOyn39Py9M9lMqTRlXGR\/KvJQkc9mN2Mnmt7QfE1zbstrqiySxAYS4VSzD03AdfqPx9amhWa92Z5tOdtGbt4ZNPcpKFkQghWxjIIx+lDauE06S38tTuHXNXriW0u4jHLJE4Po4yPpWFcaW+WEM6PH2BHNddz1aeJjKNpvUryCGdVLKF2gnJ53H+nasPxFos2pfZmtZ4Y2i3ZZye+PQe1WdUuG0\/MYhnnk7LFExB4J5JGO3rXK6hNq2pBopAba3xkxIpBI\/2mxz1+lc1Soosyr14ybaKTTHSpJ4rG6W5u5k8t5ovuoueQD3JwOe316cFZOExiOMnHXJ5r0W00tEABbjpgDH69687hC7E2BCxHO7isqc3Jtsxoy5myV5CwHQeuCaCzkkhwBn3\/wAKRmbYQETv0fAqNnlDH92v\/fzFam57Fp13DHaoJYBNxx90gcdeVNWH1FGjK\/ZyVBDBT5WOAcA\/u\/c\/nXkSTThQPPlRRgAFmwKVbiVyP38h6etSoyWzOT6s+56w2s3HCx6eEiYgOuYsd+wTkc1WN3LsG20iD7twyE+XrgZ29OleYtKQDl23dCGqCSKNsElSTzgcd6LS7j+rvuemm6u\/O5tYSihlX7pBByOmB2qEW7hTtZRkYIAx74z9a85VIQj7kz9GB559qiJV2KsqrxgALScJdx\/V33PTJJhDGplWONIwSX6ccdST0GP515P5yiVxGFKbjtPqM8VbAi24DOre\/So8xqOU+b\/dH+NOEXHVmlOlydSIzttwEPI9DTDIf7jfl\/8AXp+ZDn5Xx6Kwp42Y+YNn3I\/wqzUsIAu3AHXvzV6EYiAzx9BRRTGZxkdd3zE896V5HwPmPbvRRQCCMlt24k596LkZkZckKP4R07UUUANCDAGTyeaH+W4eIfdUfifxoooAaq9eT09asJGpQEiiigEf\/9k=",
+                            "_url": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj\/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj\/wAARCABkAEsDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwDxTymQKY8dRz360iwSlmbjHuAfWplViGBx1BGWPv8AWnRxFkJwoz3PQcE+tZl3KpgIXouSvf6U6OA5wRjjOAucVM6SIgAKONvVWzjj61E8jq3Q\/d4yfpQMY0QOQOeTg4GTz6UwxMVLELgHoQB69KsSfaBGCSWXJyd2e\/pUBOQVyFyecDg9aQDERQeGKMSOrYxTmjwTnPPc0ohdgwyCOMHPt9aRFIdULEeoLZ\/SgBqgrGeScejf0qIxZOSzZ+hqzJF8g2GPJ7Dg1VeRkcqVBI4oQHpOiaVcX8MUdhpsc7hF3tsBAJGeW6Dv1rZj8Eavs4s7JN3VDs\/oMfrW7dX11pfh\/wALx6W4g8yzkd1AGGK2xfJ4P8QzWYviLVpJImS7dd66ZwVU4Mud\/buK0hgedcze5wule7bOc1mMeHZ4rfV7K3ieZSyxxqHJUcEkLnA+uM4Poar2Ws6XJdeW2mQC1AP7\/wArnOM4Kbc9eK71dW\/tey0jV9Q03SrqG6vRYi0lg3T2+5iv+sYkEjaGK7Bx9M1qeKfBGl3Ft9p0+0s7W6iHCiNUjk9iOmff8\/bKphHTu9xqmkurOI019C1GV4bS2gd1XcQbUrxnHUqO9Xf7C01poE+x2UYfOWMIwPyFSWVi0Vukun6Qwmk\/dnyYMEexwOnHfim30Gs294tvNbLHP5fmKjTJ93PXOcDmuN0KmI\/d019+g8PiI4erzyTsc94x0mytdKma2gtw6FDujTb1K57dMEjn0rhfIjUs3ylxkAgk\/wA673xbJNbwXllcpGz+Whyrbtp4ODz7Vw0gmwd+wZHT5uK1oUZ0OaFTe\/6I9CeIp4j3qfQY0QA+VlXHH38Ui2bMoJKZPP8ArP8A69LLE7fPtLZIIIDf4U7y2\/hgfGPQitzM+i9Ls4L\/AMOaRFJbCV4oI2RmjjfyyEH98e46enUUqaHaLAEGjA4XaQYLXlQ24L0xweQOBmrnhHcvhnTg6DcLaIkAZ52jBx\/npWspIlQRBiCcnJJ7479uc\/hXSpNKxx9SKy06CO7kv2hVbqVQHdo4w4HpuUZI+pPSjVNRjsXaOaK6ibAwWgYA\/QkVL\/aLW+osvlsIIgQ7HglvQfQ4B\/GpNR1dr9SbmNTGsbFVzyMg4PHvg\/hT6G8KLer2KNldG4bzF8rymORtc5zyOmBXI\/EW3tWuba4muvLlKeWkXkq+7BJySxwBz\/8ArrcD+U0qhcrnKyYKhx6j\/Paud8SWD6ndQSCHesa4+\/jHP1FT7WdPWG5tDDUp1VCv8Jn6a1o3g\/xFAInZ1sHkZ5MYIUOVwoHGCc\/U15YssbKFIUjqOMV6vb6U+l+F\/Ecswj82axlUIhzsHlt3xzz\/ACHJryHLpCjC3cgDlsgA\/pWM5Sn709yqkKNObjQ+FDmaIN\/q1Pf72aQSRsM+UnP0qF9+SwgPPIB5H8qFkmx\/x7p\/3wv+FSSfTugRvFotpD5aSBIkADcEYUfn+lT3fnSXiWsA5wHlMYySDu4HpwGJ9BUmlr5dtGv90AZ\/CoZ5fsWqNcMCY5VwT6fKVP8AMfnXSkc9OKcifxJPHLc3rBdoZ0KIPuquOmPwFY8MqNbXW5NzHaq9+dy\/0zUmrS72mKnOcYNUYy4s7nKtgkEce4\/wquh7FKC5UNXU1BEco3FQduewzn+Z\/Wl8wbfMGGXPQ9aw7uZYpFBUnJ9Kzda1o6RbIVXzJpThAxwOOpP6fnWEtzDFU4ptm54ifd4c1nZx\/oc3B\/3Grw61d9mAMk9t9el6drl1rCajZXMMUf8AojnCgg9hjk+9eSpMyr8iDaOc7iMVLOOBeZ5APm3j65x+opPtE44En6\/\/AFqrrefu3Uqpzg8OOKY53Nnc3PoTSsXc+gvA3iDZDHpmoNhwcW8p6OOyn39Py9M9lMqTRlXGR\/KvJQkc9mN2Mnmt7QfE1zbstrqiySxAYS4VSzD03AdfqPx9amhWa92Z5tOdtGbt4ZNPcpKFkQghWxjIIx+lDauE06S38tTuHXNXriW0u4jHLJE4Po4yPpWFcaW+WEM6PH2BHNddz1aeJjKNpvUryCGdVLKF2gnJ53H+nasPxFos2pfZmtZ4Y2i3ZZye+PQe1WdUuG0\/MYhnnk7LFExB4J5JGO3rXK6hNq2pBopAba3xkxIpBI\/2mxz1+lc1Soosyr14ybaKTTHSpJ4rG6W5u5k8t5ovuoueQD3JwOe316cFZOExiOMnHXJ5r0W00tEABbjpgDH69687hC7E2BCxHO7isqc3Jtsxoy5myV5CwHQeuCaCzkkhwBn3\/wAKRmbYQETv0fAqNnlDH92v\/fzFam57Fp13DHaoJYBNxx90gcdeVNWH1FGjK\/ZyVBDBT5WOAcA\/u\/c\/nXkSTThQPPlRRgAFmwKVbiVyP38h6etSoyWzOT6s+56w2s3HCx6eEiYgOuYsd+wTkc1WN3LsG20iD7twyE+XrgZ29OleYtKQDl23dCGqCSKNsElSTzgcd6LS7j+rvuemm6u\/O5tYSihlX7pBByOmB2qEW7hTtZRkYIAx74z9a85VIQj7kz9GB559qiJV2KsqrxgALScJdx\/V33PTJJhDGplWONIwSX6ccdST0GP515P5yiVxGFKbjtPqM8VbAi24DOre\/So8xqOU+b\/dH+NOEXHVmlOlydSIzttwEPI9DTDIf7jfl\/8AXp+ZDn5Xx6Kwp42Y+YNn3I\/wqzUsIAu3AHXvzV6EYiAzx9BRRTGZxkdd3zE896V5HwPmPbvRRQCCMlt24k596LkZkZckKP4R07UUUANCDAGTyeaH+W4eIfdUfifxoooAaq9eT09asJGpQEiiigEf\/9k=",
+                            "_mimetype": "image\/jpeg"
+                        },
+                        "_swStreamingSupported": false,
+                        "_listeningToSwSupport": false,
+                        "isVcardOverMmsDocument": false
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[15/12/21 16:34:33 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"E69AF59921AB79094D47C7607A8C48B0\",\"_serialized\":\"true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0\"},\"t\":1639596863,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0\",\"body\":\"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgANgMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV/PkZEupsBACQAAf/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo/cLq3qc19wnZly5ddrl9//EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7//xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv//Z\",\"type\":\"image\",\"t\":1639596863,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999750887@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"caption\":\"Temos tamanho 1\",\"interactiveAnnotations\":[],\"deprecatedMms3Url\":\"https://mmg.whatsapp.net/d/f/AsHRj8Xq9lZN6pgj5zS1obdNE7M1blIWST7RX5vb2nb2.enc\",\"directPath\":\"/v/t62.7118-24/31797244_305564374784908_2440051719823616683_n.enc?ccb=11-4&oh=01_AVwXCKpBjhH0voAbE0W8GqOe2VaG46rY_1-9av-PxBjoow&oe=61DE9306\",\"mimetype\":\"image/jpeg\",\"filehash\":\"z20Q8zx++QdVBaNpG3NlfpYp+cfq8JMcEptl5BCSy+o=\",\"encFilehash\":\"K3eoApGrD6uS/k9UEP+8kHhLaKec/aaM57hzZkAuHYg=\",\"size\":122056,\"mediaKey\":\"acRXgas9lKdE5imt3SGkOI8P7OILY2VfOoOwwqgK33k=\",\"mediaKeyTimestamp\":1639596870,\"isViewOnce\":false,\"width\":960,\"height\":1280,\"staticUrl\":\"\",\"scanLengths\":[11619,41202,26567,42668],\"scansSidecar\":{},\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1639596872,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999750887@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D\",\"msgs\":null},\"timestamp\":1639596863,\"content\":\"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgANgMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV/PkZEupsBACQAAf/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo/cLq3qc19wnZly5ddrl9//EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7//xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv//Z\",\"isGroupMsg\":false,\"isMedia\":true,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999750887@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999750887@c.us\",\"id\":\"E69AF59921AB79094D47C7607A8C48B0\",\"_serialized\":\"true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0\"},\"t\":1639596863,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99975-0887\",\"contact\":{\"id\":\"5517999750887@c.us\",\"pushname\":\"Michele\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99975-0887\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999750887@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{\"type\":\"image\",\"directPath\":\"/v/t62.7118-24/31797244_305564374784908_2440051719823616683_n.enc?ccb=11-4&oh=01_AVwXCKpBjhH0voAbE0W8GqOe2VaG46rY_1-9av-PxBjoow&oe=61DE9306\",\"mediaKey\":\"acRXgas9lKdE5imt3SGkOI8P7OILY2VfOoOwwqgK33k=\",\"mediaKeyTimestamp\":1639596870,\"mediaStage\":\"RESOLVED\",\"size\":122056,\"filehash\":\"z20Q8zx++QdVBaNpG3NlfpYp+cfq8JMcEptl5BCSy+o=\",\"mimetype\":\"image/jpeg\",\"mediaBlob\":null,\"fullHeight\":1280,\"fullWidth\":960,\"aspectRatio\":0.75,\"animationDuration\":0,\"animatedAsNewMsg\":false,\"progressiveStage\":4,\"isViewOnce\":false,\"staticUrl\":\"\",\"preview\":{\"_retainCount\":1,\"_inAutoreleasePool\":false,\"released\":false,\"_b64\":\"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgANgMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV/PkZEupsBACQAAf/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo/cLq3qc19wnZly5ddrl9//EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7//xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv//Z\",\"_url\":\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgANgMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV/PkZEupsBACQAAf/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo/cLq3qc19wnZly5ddrl9//EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7//xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv//Z\",\"_mimetype\":\"image/jpeg\"},\"_swStreamingSupported\":false,\"_listeningToSwSupport\":false,\"isVcardOverMmsDocument\":false}}]}]}"}
+[15/12/21 16:34:33 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999750887@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999750887@c.us",
+                "id": "E69AF59921AB79094D47C7607A8C48B0",
+                "_serialized": "true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0"
+            },
+            "t": 1639596863,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99975-0887",
+            "contact": {
+                "id": "5517999750887@c.us",
+                "pushname": "Michele",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99975-0887",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999750887@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0",
+                    "body": "\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD\/2c7Z\/\/\/\/\/\/\/\/\/\/\/\/\/\/8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P\/Zztn\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/CABEIAEgANgMBIgACEQEDEQH\/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID\/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV\/PkZEupsBACQAAf\/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH\/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW\/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4\/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo\/cLq3qc19wnZly5ddrl9\/\/EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf\/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7\/\/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH\/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv\/\/Z",
+                    "type": "image",
+                    "t": 1639596863,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999750887@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "caption": "Temos tamanho 1",
+                    "interactiveAnnotations": [
+                    ],
+                    "deprecatedMms3Url": "https:\/\/mmg.whatsapp.net\/d\/f\/AsHRj8Xq9lZN6pgj5zS1obdNE7M1blIWST7RX5vb2nb2.enc",
+                    "directPath": "\/v\/t62.7118-24\/31797244_305564374784908_2440051719823616683_n.enc?ccb=11-4&oh=01_AVwXCKpBjhH0voAbE0W8GqOe2VaG46rY_1-9av-PxBjoow&oe=61DE9306",
+                    "mimetype": "image\/jpeg",
+                    "filehash": "z20Q8zx++QdVBaNpG3NlfpYp+cfq8JMcEptl5BCSy+o=",
+                    "encFilehash": "K3eoApGrD6uS\/k9UEP+8kHhLaKec\/aaM57hzZkAuHYg=",
+                    "size": 122056,
+                    "mediaKey": "acRXgas9lKdE5imt3SGkOI8P7OILY2VfOoOwwqgK33k=",
+                    "mediaKeyTimestamp": 1639596870,
+                    "isViewOnce": false,
+                    "width": 960,
+                    "height": 1280,
+                    "staticUrl": "",
+                    "scanLengths": [
+                        11619,
+                        41202,
+                        26567,
+                        42668
+                    ],
+                    "scansSidecar": {
+                    },
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1639596872,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999750887@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1639596863,
+                    "content": "\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD\/2c7Z\/\/\/\/\/\/\/\/\/\/\/\/\/\/8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P\/Zztn\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/CABEIAEgANgMBIgACEQEDEQH\/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID\/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV\/PkZEupsBACQAAf\/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH\/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW\/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4\/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo\/cLq3qc19wnZly5ddrl9\/\/EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf\/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7\/\/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH\/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv\/\/Z",
+                    "isGroupMsg": false,
+                    "isMedia": true,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999750887@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999750887@c.us",
+                            "id": "E69AF59921AB79094D47C7607A8C48B0",
+                            "_serialized": "true_5517999750887@c.us_E69AF59921AB79094D47C7607A8C48B0"
+                        },
+                        "t": 1639596863,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99975-0887",
+                        "contact": {
+                            "id": "5517999750887@c.us",
+                            "pushname": "Michele",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99975-0887",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F71812470_760577617790830_1795009956340931133_n.jpg%3Fccb%3D11-4%26oh%3Dc3510bd36a2b2bc565b2f92074b396b4%26oe%3D61BE6D00&t=l&u=5517999750887%40c.us&i=1576518299&n=Dei49h5hHlDCqM3ei%2BgnSCm%2BjWhZM%2F2%2BImN9y%2B6odV4%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999750887@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                        "type": "image",
+                        "directPath": "\/v\/t62.7118-24\/31797244_305564374784908_2440051719823616683_n.enc?ccb=11-4&oh=01_AVwXCKpBjhH0voAbE0W8GqOe2VaG46rY_1-9av-PxBjoow&oe=61DE9306",
+                        "mediaKey": "acRXgas9lKdE5imt3SGkOI8P7OILY2VfOoOwwqgK33k=",
+                        "mediaKeyTimestamp": 1639596870,
+                        "mediaStage": "RESOLVED",
+                        "size": 122056,
+                        "filehash": "z20Q8zx++QdVBaNpG3NlfpYp+cfq8JMcEptl5BCSy+o=",
+                        "mimetype": "image\/jpeg",
+                        "mediaBlob": null,
+                        "fullHeight": 1280,
+                        "fullWidth": 960,
+                        "aspectRatio": 0.75,
+                        "animationDuration": 0,
+                        "animatedAsNewMsg": false,
+                        "progressiveStage": 4,
+                        "isViewOnce": false,
+                        "staticUrl": "",
+                        "preview": {
+                            "_retainCount": 1,
+                            "_inAutoreleasePool": false,
+                            "released": false,
+                            "_b64": "\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD\/2c7Z\/\/\/\/\/\/\/\/\/\/\/\/\/\/8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P\/Zztn\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/CABEIAEgANgMBIgACEQEDEQH\/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID\/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV\/PkZEupsBACQAAf\/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH\/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW\/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4\/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo\/cLq3qc19wnZly5ddrl9\/\/EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf\/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7\/\/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH\/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv\/\/Z",
+                            "_url": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD\/2c7Z\/\/\/\/\/\/\/\/\/\/\/\/\/\/8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P\/Zztn\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/CABEIAEgANgMBIgACEQEDEQH\/xAAvAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQEBAQEAAAAAAAAAAAAAAAAAAQID\/9oADAMBAAIQAxAAAADHO8sqyszKRbrNRGWbKudN4ox0eWLm0NPObgMT0bI6kYPhOvTFvZ05sQbFvOlOdnjz5XcKV\/PkZEupsBACQAAf\/8QAJBAAAgICAQQBBQAAAAAAAAAAAQIAEQMhEgQQMVFBFCAiYXH\/2gAIAQEAAT8AqVKlfYMVw4a8wYVJrnPpb8NG6Yqt3KhE5HGqhVHiB2yAq6xukTgGVaMGJ0XS6jlivubm5jUMiwKBMgIGiIW\/A3MZ22viE7MuYxSLNFbnLRlgxqCtXqGa9RKKahOqlHiYSRcGZmJB8Qk2al3MWU4\/5LDrYhLDUbIq+Yx5XxWhPk9g6VBmC+Ieo\/cLq3qc19wnZly5ddrl9\/\/EABwRAQACAQUAAAAAAAAAAAAAAAEAERACICFCUf\/aAAgBAgEBPwCyWQRxx5EJWnqZcjUWG7\/\/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIQERIgITH\/2gAIAQMBAT8A5E2REyizVjyzvFfsQ1kUjdYdv\/\/Z",
+                            "_mimetype": "image\/jpeg"
+                        },
+                        "_swStreamingSupported": false,
+                        "_listeningToSwSupport": false,
+                        "isVcardOverMmsDocument": false
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[15/12/21 16:34:51 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999787260@c.us\",\"pendingMsgs\":true,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999787260@c.us\",\"id\":\"A8A89F5035BB3DDB54C5858F9C851B26\",\"_serialized\":\"true_5517999787260@c.us_A8A89F5035BB3DDB54C5858F9C851B26\"},\"t\":1639596889,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99978-7260\",\"contact\":{\"id\":\"5517999787260@c.us\",\"pushname\":\"Gerllayne\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99978-7260\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999787260@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999787260@c.us_A8A89F5035BB3DDB54C5858F9C851B26\",\"body\":\"Boa tarde\",\"type\":\"chat\",\"t\":1639596889,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999787260@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1639596889,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999787260@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D\",\"msgs\":null},\"timestamp\":1639596889,\"content\":\"Boa tarde\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999787260@c.us\",\"pendingMsgs\":true,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999787260@c.us\",\"id\":\"A8A89F5035BB3DDB54C5858F9C851B26\",\"_serialized\":\"true_5517999787260@c.us_A8A89F5035BB3DDB54C5858F9C851B26\"},\"t\":1639596889,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99978-7260\",\"contact\":{\"id\":\"5517999787260@c.us\",\"pushname\":\"Gerllayne\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99978-7260\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999787260@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[15/12/21 16:34:51 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999787260@c.us",
+            "pendingMsgs": true,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999787260@c.us",
+                "id": "A8A89F5035BB3DDB54C5858F9C851B26",
+                "_serialized": "true_5517999787260@c.us_A8A89F5035BB3DDB54C5858F9C851B26"
+            },
+            "t": 1639596889,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99978-7260",
+            "contact": {
+                "id": "5517999787260@c.us",
+                "pushname": "Gerllayne",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99978-7260",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999787260@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999787260@c.us_A8A89F5035BB3DDB54C5858F9C851B26",
+                    "body": "Boa tarde",
+                    "type": "chat",
+                    "t": 1639596889,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999787260@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1639596889,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999787260@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1639596889,
+                    "content": "Boa tarde",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999787260@c.us",
+                        "pendingMsgs": true,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999787260@c.us",
+                            "id": "A8A89F5035BB3DDB54C5858F9C851B26",
+                            "_serialized": "true_5517999787260@c.us_A8A89F5035BB3DDB54C5858F9C851B26"
+                        },
+                        "t": 1639596889,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99978-7260",
+                        "contact": {
+                            "id": "5517999787260@c.us",
+                            "pushname": "Gerllayne",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99978-7260",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999787260@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[15/12/21 16:35:03 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517999787260@c.us\",\"pendingMsgs\":true,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999787260@c.us\",\"id\":\"8FEC5D356BA61459CE13D949FF338757\",\"_serialized\":\"true_5517999787260@c.us_8FEC5D356BA61459CE13D949FF338757\"},\"t\":1639596900,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99978-7260\",\"contact\":{\"id\":\"5517999787260@c.us\",\"pushname\":\"Gerllayne\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99978-7260\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999787260@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517999787260@c.us_8FEC5D356BA61459CE13D949FF338757\",\"body\":\"Como posso ajudar?\",\"type\":\"chat\",\"t\":1639596900,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517999787260@c.us\",\"self\":\"in\",\"ack\":1,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1639596900,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517999787260@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D\",\"msgs\":null},\"timestamp\":1639596900,\"content\":\"Como posso ajudar?\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517999787260@c.us\",\"pendingMsgs\":true,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517999787260@c.us\",\"id\":\"8FEC5D356BA61459CE13D949FF338757\",\"_serialized\":\"true_5517999787260@c.us_8FEC5D356BA61459CE13D949FF338757\"},\"t\":1639596900,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99978-7260\",\"contact\":{\"id\":\"5517999787260@c.us\",\"pushname\":\"Gerllayne\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99978-7260\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517999787260@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[15/12/21 16:35:03 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517999787260@c.us",
+            "pendingMsgs": true,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517999787260@c.us",
+                "id": "8FEC5D356BA61459CE13D949FF338757",
+                "_serialized": "true_5517999787260@c.us_8FEC5D356BA61459CE13D949FF338757"
+            },
+            "t": 1639596900,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99978-7260",
+            "contact": {
+                "id": "5517999787260@c.us",
+                "pushname": "Gerllayne",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99978-7260",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517999787260@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517999787260@c.us_8FEC5D356BA61459CE13D949FF338757",
+                    "body": "Como posso ajudar?",
+                    "type": "chat",
+                    "t": 1639596900,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517999787260@c.us",
+                    "self": "in",
+                    "ack": 1,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1639596900,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517999787260@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D11cdcf4eb1b132f7bf8044877a161218%26oe%3D61BE8C50&t=l&u=5517999772966%40c.us&i=1615923586&n=0rHbPcxdPvl0jYfUbn2%2F4ZMeVRaUVOH0u9UoYT0Cl04%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1639596900,
+                    "content": "Como posso ajudar?",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517999787260@c.us",
+                        "pendingMsgs": true,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517999787260@c.us",
+                            "id": "8FEC5D356BA61459CE13D949FF338757",
+                            "_serialized": "true_5517999787260@c.us_8FEC5D356BA61459CE13D949FF338757"
+                        },
+                        "t": 1639596900,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99978-7260",
+                        "contact": {
+                            "id": "5517999787260@c.us",
+                            "pushname": "Gerllayne",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99978-7260",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F268100306_970493236883587_2187928192360504027_n.jpg%3Fccb%3D11-4%26oh%3Db8aec6dd43b98dbd708cdb43b3671307%26oe%3D61BF7F38&t=l&u=5517999787260%40c.us&i=1639492921&n=5TolMypTCiJ7wkG0jpdQw2t9eUSriZ2fDVzUQiRopYA%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517999787260@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}

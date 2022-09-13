@@ -1,0 +1,839 @@
+
+
+[01/10/21 16:57:32 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517991729925@c.us\",\"id\":\"633FA67EC1A9B4AB1AEBD5662C5646D0\",\"_serialized\":\"false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0\"},\"t\":1633118238,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0\",\"body\":\"Oi qual valor da fralda para nadar\",\"type\":\"chat\",\"t\":1633118238,\"notifyName\":\"\",\"from\":\"5517991729925@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517991729925@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"timestamp\":1633118238,\"content\":\"Oi qual valor da fralda para nadar\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517991729925@c.us\",\"id\":\"633FA67EC1A9B4AB1AEBD5662C5646D0\",\"_serialized\":\"false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0\"},\"t\":1633118238,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[01/10/21 16:57:32 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991729925@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517991729925@c.us",
+                "id": "633FA67EC1A9B4AB1AEBD5662C5646D0",
+                "_serialized": "false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0"
+            },
+            "t": 1633118238,
+            "unreadCount": 1,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99172-9925",
+            "contact": {
+                "id": "5517991729925@c.us",
+                "pushname": "?? Monize ??",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99172-9925",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991729925@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0",
+                    "body": "Oi qual valor da fralda para nadar",
+                    "type": "chat",
+                    "t": 1633118238,
+                    "notifyName": "",
+                    "from": "5517991729925@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517991729925@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517991729925@c.us",
+                        "pushname": "?? Monize ??",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99172-9925",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1633118238,
+                    "content": "Oi qual valor da fralda para nadar",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991729925@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517991729925@c.us",
+                            "id": "633FA67EC1A9B4AB1AEBD5662C5646D0",
+                            "_serialized": "false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0"
+                        },
+                        "t": 1633118238,
+                        "unreadCount": 1,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99172-9925",
+                        "contact": {
+                            "id": "5517991729925@c.us",
+                            "pushname": "?? Monize ??",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99172-9925",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991729925@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[01/10/21 16:57:35 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517991729925@c.us\",\"id\":\"633FA67EC1A9B4AB1AEBD5662C5646D0\",\"_serialized\":\"false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0\"},\"t\":1633118238,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0\",\"body\":\"Oi qual valor da fralda para nadar\",\"type\":\"chat\",\"t\":1633118238,\"notifyName\":\"\",\"from\":\"5517991729925@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517991729925@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"timestamp\":1633118238,\"content\":\"Oi qual valor da fralda para nadar\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517991729925@c.us\",\"id\":\"633FA67EC1A9B4AB1AEBD5662C5646D0\",\"_serialized\":\"false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0\"},\"t\":1633118238,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[01/10/21 16:57:35 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991729925@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517991729925@c.us",
+                "id": "633FA67EC1A9B4AB1AEBD5662C5646D0",
+                "_serialized": "false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0"
+            },
+            "t": 1633118238,
+            "unreadCount": 1,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99172-9925",
+            "contact": {
+                "id": "5517991729925@c.us",
+                "pushname": "?? Monize ??",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99172-9925",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991729925@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0",
+                    "body": "Oi qual valor da fralda para nadar",
+                    "type": "chat",
+                    "t": 1633118238,
+                    "notifyName": "",
+                    "from": "5517991729925@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517991729925@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517991729925@c.us",
+                        "pushname": "?? Monize ??",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 99172-9925",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1633118238,
+                    "content": "Oi qual valor da fralda para nadar",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991729925@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517991729925@c.us",
+                            "id": "633FA67EC1A9B4AB1AEBD5662C5646D0",
+                            "_serialized": "false_5517991729925@c.us_633FA67EC1A9B4AB1AEBD5662C5646D0"
+                        },
+                        "t": 1633118238,
+                        "unreadCount": 1,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99172-9925",
+                        "contact": {
+                            "id": "5517991729925@c.us",
+                            "pushname": "?? Monize ??",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99172-9925",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991729925@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[01/10/21 16:59:14 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991729925@c.us\",\"id\":\"DB51E5F6110AEE171C890B3332F8C03B\",\"_serialized\":\"true_5517991729925@c.us_DB51E5F6110AEE171C890B3332F8C03B\"},\"t\":1633118350,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517991729925@c.us_DB51E5F6110AEE171C890B3332F8C03B\",\"body\":\"Ola\",\"type\":\"chat\",\"t\":1633118350,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517991729925@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1633118350,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517991729925@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D\",\"msgs\":null},\"timestamp\":1633118350,\"content\":\"Ola\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991729925@c.us\",\"id\":\"DB51E5F6110AEE171C890B3332F8C03B\",\"_serialized\":\"true_5517991729925@c.us_DB51E5F6110AEE171C890B3332F8C03B\"},\"t\":1633118350,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[01/10/21 16:59:14 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991729925@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517991729925@c.us",
+                "id": "DB51E5F6110AEE171C890B3332F8C03B",
+                "_serialized": "true_5517991729925@c.us_DB51E5F6110AEE171C890B3332F8C03B"
+            },
+            "t": 1633118350,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99172-9925",
+            "contact": {
+                "id": "5517991729925@c.us",
+                "pushname": "?? Monize ??",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99172-9925",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991729925@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517991729925@c.us_DB51E5F6110AEE171C890B3332F8C03B",
+                    "body": "Ola",
+                    "type": "chat",
+                    "t": 1633118350,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517991729925@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1633118350,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517991729925@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1633118350,
+                    "content": "Ola",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991729925@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517991729925@c.us",
+                            "id": "DB51E5F6110AEE171C890B3332F8C03B",
+                            "_serialized": "true_5517991729925@c.us_DB51E5F6110AEE171C890B3332F8C03B"
+                        },
+                        "t": 1633118350,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99172-9925",
+                        "contact": {
+                            "id": "5517991729925@c.us",
+                            "pushname": "?? Monize ??",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99172-9925",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991729925@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[01/10/21 16:59:23 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991729925@c.us\",\"id\":\"951A6FCC27C410BDD907583980AC212F\",\"_serialized\":\"true_5517991729925@c.us_951A6FCC27C410BDD907583980AC212F\"},\"t\":1633118359,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517991729925@c.us_951A6FCC27C410BDD907583980AC212F\",\"body\":\"Boa tarde\",\"type\":\"chat\",\"t\":1633118359,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517991729925@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1633118359,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517991729925@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D\",\"msgs\":null},\"timestamp\":1633118359,\"content\":\"Boa tarde\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991729925@c.us\",\"id\":\"951A6FCC27C410BDD907583980AC212F\",\"_serialized\":\"true_5517991729925@c.us_951A6FCC27C410BDD907583980AC212F\"},\"t\":1633118359,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[01/10/21 16:59:23 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991729925@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517991729925@c.us",
+                "id": "951A6FCC27C410BDD907583980AC212F",
+                "_serialized": "true_5517991729925@c.us_951A6FCC27C410BDD907583980AC212F"
+            },
+            "t": 1633118359,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99172-9925",
+            "contact": {
+                "id": "5517991729925@c.us",
+                "pushname": "?? Monize ??",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99172-9925",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991729925@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517991729925@c.us_951A6FCC27C410BDD907583980AC212F",
+                    "body": "Boa tarde",
+                    "type": "chat",
+                    "t": 1633118359,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517991729925@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1633118359,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517991729925@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1633118359,
+                    "content": "Boa tarde",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991729925@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517991729925@c.us",
+                            "id": "951A6FCC27C410BDD907583980AC212F",
+                            "_serialized": "true_5517991729925@c.us_951A6FCC27C410BDD907583980AC212F"
+                        },
+                        "t": 1633118359,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99172-9925",
+                        "contact": {
+                            "id": "5517991729925@c.us",
+                            "pushname": "?? Monize ??",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99172-9925",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991729925@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[01/10/21 16:59:35 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991729925@c.us\",\"id\":\"C431CD87C9D464E81D80ED9941EDB5F7\",\"_serialized\":\"true_5517991729925@c.us_C431CD87C9D464E81D80ED9941EDB5F7\"},\"t\":1633118370,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517991729925@c.us_C431CD87C9D464E81D80ED9941EDB5F7\",\"body\":\"Avulsa R$6.90\",\"type\":\"chat\",\"t\":1633118370,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517991729925@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1633118371,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517991729925@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D\",\"msgs\":null},\"timestamp\":1633118370,\"content\":\"Avulsa R$6.90\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517991729925@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517991729925@c.us\",\"id\":\"C431CD87C9D464E81D80ED9941EDB5F7\",\"_serialized\":\"true_5517991729925@c.us_C431CD87C9D464E81D80ED9941EDB5F7\"},\"t\":1633118370,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 99172-9925\",\"contact\":{\"id\":\"5517991729925@c.us\",\"pushname\":\"?? Monize ??\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 99172-9925\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517991729925@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[01/10/21 16:59:35 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517991729925@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517991729925@c.us",
+                "id": "C431CD87C9D464E81D80ED9941EDB5F7",
+                "_serialized": "true_5517991729925@c.us_C431CD87C9D464E81D80ED9941EDB5F7"
+            },
+            "t": 1633118370,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 99172-9925",
+            "contact": {
+                "id": "5517991729925@c.us",
+                "pushname": "?? Monize ??",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 99172-9925",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517991729925@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517991729925@c.us_C431CD87C9D464E81D80ED9941EDB5F7",
+                    "body": "Avulsa R$6.90",
+                    "type": "chat",
+                    "t": 1633118370,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517991729925@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1633118371,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517991729925@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1633118370,
+                    "content": "Avulsa R$6.90",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517991729925@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517991729925@c.us",
+                            "id": "C431CD87C9D464E81D80ED9941EDB5F7",
+                            "_serialized": "true_5517991729925@c.us_C431CD87C9D464E81D80ED9941EDB5F7"
+                        },
+                        "t": 1633118370,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 99172-9925",
+                        "contact": {
+                            "id": "5517991729925@c.us",
+                            "pushname": "?? Monize ??",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 99172-9925",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173732018_309240030638410_5327564297077152395_n.jpg%3Fccb%3D11-4%26oh%3D8979864ec34af2491254475171d795da%26oe%3D615C6668&t=l&u=5517991729925%40c.us&i=1618250819&n=ktY93oSqK3PnIZd6DLcMe3X1r1IOk0f8sxOiZdU2pzg%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517991729925@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}

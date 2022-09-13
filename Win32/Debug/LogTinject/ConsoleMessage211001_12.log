@@ -1,0 +1,338 @@
+
+
+[01/10/21 12:11:02 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517981023595@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517981023595@c.us\",\"id\":\"D0C99FEECA01553D444394EE7BFD579B\",\"_serialized\":\"false_5517981023595@c.us_D0C99FEECA01553D444394EE7BFD579B\"},\"t\":1633101056,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98102-3595\",\"contact\":{\"id\":\"5517981023595@c.us\",\"pushname\":\"Angelica\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98102-3595\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981023595@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"false_5517981023595@c.us_D0C99FEECA01553D444394EE7BFD579B\",\"body\":\"Sim ok obrigado\",\"type\":\"chat\",\"t\":1633101056,\"notifyName\":\"\",\"from\":\"5517981023595@c.us\",\"to\":\"5517999772966@c.us\",\"self\":\"in\",\"ack\":0,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"broadcast\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralOutOfSync\":false,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517981023595@c.us\",\"fromMe\":false,\"sender\":{\"id\":\"5517981023595@c.us\",\"pushname\":\"Angelica\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98102-3595\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D\",\"msgs\":null},\"timestamp\":1633101056,\"content\":\"Sim ok obrigado\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517981023595@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":false,\"remote\":\"5517981023595@c.us\",\"id\":\"D0C99FEECA01553D444394EE7BFD579B\",\"_serialized\":\"false_5517981023595@c.us_D0C99FEECA01553D444394EE7BFD579B\"},\"t\":1633101056,\"unreadCount\":1,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98102-3595\",\"contact\":{\"id\":\"5517981023595@c.us\",\"pushname\":\"Angelica\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98102-3595\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981023595@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[01/10/21 12:11:02 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517981023595@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": false,
+                "remote": "5517981023595@c.us",
+                "id": "D0C99FEECA01553D444394EE7BFD579B",
+                "_serialized": "false_5517981023595@c.us_D0C99FEECA01553D444394EE7BFD579B"
+            },
+            "t": 1633101056,
+            "unreadCount": 1,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 98102-3595",
+            "contact": {
+                "id": "5517981023595@c.us",
+                "pushname": "Angelica",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 98102-3595",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517981023595@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "false_5517981023595@c.us_D0C99FEECA01553D444394EE7BFD579B",
+                    "body": "Sim ok obrigado",
+                    "type": "chat",
+                    "t": 1633101056,
+                    "notifyName": "",
+                    "from": "5517981023595@c.us",
+                    "to": "5517999772966@c.us",
+                    "self": "in",
+                    "ack": 0,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "broadcast": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralOutOfSync": false,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517981023595@c.us",
+                    "fromMe": false,
+                    "sender": {
+                        "id": "5517981023595@c.us",
+                        "pushname": "Angelica",
+                        "type": "in",
+                        "isBusiness": false,
+                        "isEnterprise": false,
+                        "statusMute": false,
+                        "labels": [
+                        ],
+                        "disappearingModeDuration": 0,
+                        "disappearingModeSettingTimestamp": 0,
+                        "formattedName": "+55 17 98102-3595",
+                        "isMe": false,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1633101056,
+                    "content": "Sim ok obrigado",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517981023595@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": false,
+                            "remote": "5517981023595@c.us",
+                            "id": "D0C99FEECA01553D444394EE7BFD579B",
+                            "_serialized": "false_5517981023595@c.us_D0C99FEECA01553D444394EE7BFD579B"
+                        },
+                        "t": 1633101056,
+                        "unreadCount": 1,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 98102-3595",
+                        "contact": {
+                            "id": "5517981023595@c.us",
+                            "pushname": "Angelica",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 98102-3595",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517981023595@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+[01/10/21 12:11:08 - CONSOLE]  
+{"name":"getUnreadMessages","result":"{\"result\":[{\"id\":\"5517981023595@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517981023595@c.us\",\"id\":\"ACB98EDB458E41FA7F512AD24D28C4F3\",\"_serialized\":\"true_5517981023595@c.us_ACB98EDB458E41FA7F512AD24D28C4F3\"},\"t\":1633101062,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98102-3595\",\"contact\":{\"id\":\"5517981023595@c.us\",\"pushname\":\"Angelica\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98102-3595\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981023595@c.us\",\"chatstates\":[]},\"messages\":[{\"id\":\"true_5517981023595@c.us_ACB98EDB458E41FA7F512AD24D28C4F3\",\"body\":\"*Resposta automatica* \\nOla!No momento estamos *em horario dr almoco*, responderemos sua mensagem o mais rapido possivel assim que retornarmos!\\n\\n\\nVoce sabia que temos *APP* ? Acesse o link e faca seu pedido.\\n\\nhttps://www.lojadasfraldasonline.com.br\\n\\n\\n\\nAgradecemos a compreensao!\",\"type\":\"chat\",\"t\":1633101062,\"notifyName\":\"\",\"from\":\"5517999772966@c.us\",\"to\":\"5517981023595@c.us\",\"self\":\"in\",\"ack\":2,\"invis\":false,\"isNewMsg\":false,\"star\":false,\"recvFresh\":true,\"isFromTemplate\":false,\"mentionedJidList\":[],\"isVcardOverMmsDocument\":false,\"isForwarded\":false,\"labels\":[],\"ephemeralStartTimestamp\":1633101064,\"productHeaderImageRejected\":false,\"isDynamicReplyButtonsMsg\":false,\"isMdHistoryMsg\":false,\"requiresDirectConnection\":false,\"chatId\":\"5517981023595@c.us\",\"fromMe\":true,\"sender\":{\"id\":\"5517999772966@c.us\",\"type\":\"in\",\"formattedName\":\"Voce\",\"isMe\":true,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D\",\"msgs\":null},\"timestamp\":1633101062,\"content\":\"*Resposta automatica* \\nOla!No momento estamos *em horario dr almoco*, responderemos sua mensagem o mais rapido possivel assim que retornarmos!\\n\\n\\nVoce sabia que temos *APP* ? Acesse o link e faca seu pedido.\\n\\nhttps://www.lojadasfraldasonline.com.br\\n\\n\\n\\nAgradecemos a compreensao!\",\"isGroupMsg\":false,\"isMedia\":false,\"isNotification\":false,\"isPSA\":false,\"chat\":{\"id\":\"5517981023595@c.us\",\"pendingMsgs\":false,\"lastReceivedKey\":{\"fromMe\":true,\"remote\":\"5517981023595@c.us\",\"id\":\"ACB98EDB458E41FA7F512AD24D28C4F3\",\"_serialized\":\"true_5517981023595@c.us_ACB98EDB458E41FA7F512AD24D28C4F3\"},\"t\":1633101062,\"unreadCount\":0,\"archive\":false,\"isReadOnly\":false,\"muteExpiration\":0,\"notSpam\":true,\"pin\":0,\"ephemeralDuration\":0,\"ephemeralSettingTimestamp\":0,\"hasUnreadMention\":false,\"archiveAtMentionViewedInDrawer\":false,\"hasChatBeenOpened\":false,\"msgs\":null,\"kind\":\"chat\",\"isGroup\":false,\"formattedTitle\":\"+55 17 98102-3595\",\"contact\":{\"id\":\"5517981023595@c.us\",\"pushname\":\"Angelica\",\"type\":\"in\",\"isBusiness\":false,\"isEnterprise\":false,\"statusMute\":false,\"labels\":[],\"disappearingModeDuration\":0,\"disappearingModeSettingTimestamp\":0,\"formattedName\":\"+55 17 98102-3595\",\"isMe\":false,\"isMyContact\":false,\"isPSA\":false,\"isUser\":true,\"isWAContact\":true,\"profilePicThumb\":\"https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D\",\"msgs\":null},\"groupMetadata\":null,\"presence\":{\"id\":\"5517981023595@c.us\",\"chatstates\":[]}},\"quotedMsgObj\":null,\"mediaData\":{}}]}]}"}
+[01/10/21 12:11:08 - TChatList]  
+{
+    "result": [
+        {
+            "id": "5517981023595@c.us",
+            "pendingMsgs": false,
+            "lastReceivedKey": {
+                "fromMe": true,
+                "remote": "5517981023595@c.us",
+                "id": "ACB98EDB458E41FA7F512AD24D28C4F3",
+                "_serialized": "true_5517981023595@c.us_ACB98EDB458E41FA7F512AD24D28C4F3"
+            },
+            "t": 1633101062,
+            "unreadCount": 0,
+            "archive": false,
+            "isReadOnly": false,
+            "muteExpiration": 0,
+            "notSpam": true,
+            "pin": 0,
+            "ephemeralDuration": 0,
+            "ephemeralSettingTimestamp": 0,
+            "hasUnreadMention": false,
+            "archiveAtMentionViewedInDrawer": false,
+            "hasChatBeenOpened": false,
+            "msgs": null,
+            "kind": "chat",
+            "isGroup": false,
+            "formattedTitle": "+55 17 98102-3595",
+            "contact": {
+                "id": "5517981023595@c.us",
+                "pushname": "Angelica",
+                "type": "in",
+                "isBusiness": false,
+                "isEnterprise": false,
+                "statusMute": false,
+                "labels": [
+                ],
+                "disappearingModeDuration": 0,
+                "disappearingModeSettingTimestamp": 0,
+                "formattedName": "+55 17 98102-3595",
+                "isMe": false,
+                "isMyContact": false,
+                "isPSA": false,
+                "isUser": true,
+                "isWAContact": true,
+                "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D",
+                "msgs": null
+            },
+            "groupMetadata": null,
+            "presence": {
+                "id": "5517981023595@c.us",
+                "chatstates": [
+                ]
+            },
+            "messages": [
+                {
+                    "id": "true_5517981023595@c.us_ACB98EDB458E41FA7F512AD24D28C4F3",
+                    "body": "*Resposta automatica* \nOla!No momento estamos *em horario dr almoco*, responderemos sua mensagem o mais rapido possivel assim que retornarmos!\n\n\nVoce sabia que temos *APP* ? Acesse o link e faca seu pedido.\n\nhttps:\/\/www.lojadasfraldasonline.com.br\n\n\n\nAgradecemos a compreensao!",
+                    "type": "chat",
+                    "t": 1633101062,
+                    "notifyName": "",
+                    "from": "5517999772966@c.us",
+                    "to": "5517981023595@c.us",
+                    "self": "in",
+                    "ack": 2,
+                    "invis": false,
+                    "isNewMsg": false,
+                    "star": false,
+                    "recvFresh": true,
+                    "isFromTemplate": false,
+                    "mentionedJidList": [
+                    ],
+                    "isVcardOverMmsDocument": false,
+                    "isForwarded": false,
+                    "labels": [
+                    ],
+                    "ephemeralStartTimestamp": 1633101064,
+                    "productHeaderImageRejected": false,
+                    "isDynamicReplyButtonsMsg": false,
+                    "isMdHistoryMsg": false,
+                    "requiresDirectConnection": false,
+                    "chatId": "5517981023595@c.us",
+                    "fromMe": true,
+                    "sender": {
+                        "id": "5517999772966@c.us",
+                        "type": "in",
+                        "formattedName": "Voce",
+                        "isMe": true,
+                        "isMyContact": false,
+                        "isPSA": false,
+                        "isUser": true,
+                        "isWAContact": true,
+                        "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F160573960_445560260099055_8085868310252127247_n.jpg%3Fccb%3D11-4%26oh%3D16c8a913ea6b832edf4c265b8c1afbfc%26oe%3D615BABD0&t=l&u=5517999772966%40c.us&i=1615923586&n=Lk4Y3u2ORy0W%2BDaDflso86kNSNcww09QW%2FEMnZ5NgBE%3D",
+                        "msgs": null
+                    },
+                    "timestamp": 1633101062,
+                    "content": "*Resposta automatica* \nOla!No momento estamos *em horario dr almoco*, responderemos sua mensagem o mais rapido possivel assim que retornarmos!\n\n\nVoce sabia que temos *APP* ? Acesse o link e faca seu pedido.\n\nhttps:\/\/www.lojadasfraldasonline.com.br\n\n\n\nAgradecemos a compreensao!",
+                    "isGroupMsg": false,
+                    "isMedia": false,
+                    "isNotification": false,
+                    "isPSA": false,
+                    "chat": {
+                        "id": "5517981023595@c.us",
+                        "pendingMsgs": false,
+                        "lastReceivedKey": {
+                            "fromMe": true,
+                            "remote": "5517981023595@c.us",
+                            "id": "ACB98EDB458E41FA7F512AD24D28C4F3",
+                            "_serialized": "true_5517981023595@c.us_ACB98EDB458E41FA7F512AD24D28C4F3"
+                        },
+                        "t": 1633101062,
+                        "unreadCount": 0,
+                        "archive": false,
+                        "isReadOnly": false,
+                        "muteExpiration": 0,
+                        "notSpam": true,
+                        "pin": 0,
+                        "ephemeralDuration": 0,
+                        "ephemeralSettingTimestamp": 0,
+                        "hasUnreadMention": false,
+                        "archiveAtMentionViewedInDrawer": false,
+                        "hasChatBeenOpened": false,
+                        "msgs": null,
+                        "kind": "chat",
+                        "isGroup": false,
+                        "formattedTitle": "+55 17 98102-3595",
+                        "contact": {
+                            "id": "5517981023595@c.us",
+                            "pushname": "Angelica",
+                            "type": "in",
+                            "isBusiness": false,
+                            "isEnterprise": false,
+                            "statusMute": false,
+                            "labels": [
+                            ],
+                            "disappearingModeDuration": 0,
+                            "disappearingModeSettingTimestamp": 0,
+                            "formattedName": "+55 17 98102-3595",
+                            "isMe": false,
+                            "isMyContact": false,
+                            "isPSA": false,
+                            "isUser": true,
+                            "isWAContact": true,
+                            "profilePicThumb": "https:\/\/web.whatsapp.com\/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F172085157_1138083076700128_1230061216627915055_n.jpg%3Fccb%3D11-4%26oh%3D574472212a7c98670d134d32eb6a4e84%26oe%3D615C60FD&t=l&u=5517981023595%40c.us&i=1618695374&n=TxgVBEm65SQz%2FqMc2FKMkEi7%2Fl%2BxJ%2BBtCVuBHWfE%2F0Y%3D",
+                            "msgs": null
+                        },
+                        "groupMetadata": null,
+                        "presence": {
+                            "id": "5517981023595@c.us",
+                            "chatstates": [
+                            ]
+                        }
+                    },
+                    "quotedMsgObj": null,
+                    "mediaData": {
+                    }
+                }
+            ]
+        }
+    ]
+}
